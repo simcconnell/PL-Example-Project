@@ -1,0 +1,170 @@
+Div = League Division=0
+Date = Match Date (dd/mm/yy)=0
+Time = Time of match kick off=0
+HomeTeam = Home Team=0
+AwayTeam = Away Team=0
+FTHG = Full Time Home Team Goals=0
+HG = Full Time Home Team Goals=0
+FTAG = Full Time Away Team Goals=0
+AG = Full Time Away Team Goals=0
+FTR ="Full Time Result (H=Home Win, D=Draw, A=Away Win)"=0
+Res ="Full Time Result (H=Home Win, D=Draw, A=Away Win)"=0
+HTHG = Half Time Home Team Goals=0
+HTAG = Half Time Away Team Goals=0
+HTR ="Half Time Result (H=Home Win, D=Draw, A=Away Win)"=0
+Attendance = Crowd Attendance=0
+Referee = Match Referee=0
+HS = Home Team Shots=0
+AS = Away Team Shots=0
+HST = Home Team Shots on Target=0
+AST = Away Team Shots on Target=0
+HHW = Home Team Hit Woodwork=0
+AHW = Away Team Hit Woodwork=0
+HC = Home Team Corners=0
+AC = Away Team Corners=0
+HF = Home Team Fouls Committed=0
+AF = Away Team Fouls Committed=0
+HFKC = Home Team Free Kicks Conceded=0
+AFKC = Away Team Free Kicks Conceded=0
+HO = Home Team Offsides=0
+AO = Away Team Offsides=0
+HY = Home Team Yellow Cards=0
+AY = Away Team Yellow Cards=0
+HR = Home Team Red Cards=0
+AR = Away Team Red Cards=0
+HBP ="Home Team Bookings Points (10 = yellow, 25 = red)"=0
+ABP ="Away Team Bookings Points (10 = yellow, 25 = red)"=0
+B365H = Bet365 home win odds=1
+B365D = Bet365 draw odds=1
+B365A = Bet365 away win odds=1
+BSH = Blue Square home win odds=1
+BSD = Blue Square draw odds=1
+BSA = Blue Square away win odds=1
+BWH = Bet&Win home win odds=1
+BWD = Bet&Win draw odds=1
+BWA = Bet&Win away win odds=1
+GBH = Gamebookers home win odds=1
+GBD = Gamebookers draw odds=1
+GBA = Gamebookers away win odds=1
+IWH = Interwetten home win odds=1
+IWD = Interwetten draw odds=1
+IWA = Interwetten away win odds=1
+LBH = Ladbrokes home win odds=1
+LBD = Ladbrokes draw odds=1
+LBA = Ladbrokes away win odds=1
+PSH = Pinnacle home win odds=1
+PH = Pinnacle home win odds=1
+PSD = Pinnacle draw odds=1
+PD = Pinnacle draw odds=1
+PSA = Pinnacle away win odds=1
+PA = Pinnacle away win odds=1
+SOH = Sporting Odds home win odds=1
+SOD = Sporting Odds draw odds=1
+SOA = Sporting Odds away win odds=1
+SBH = Sportingbet home win odds=1
+SBD = Sportingbet draw odds=1
+SBA = Sportingbet away win odds=1
+SJH = Stan James home win odds=1
+SJD = Stan James draw odds=1
+SJA = Stan James away win odds=1
+SYH = Stanleybet home win odds=1
+SYD = Stanleybet draw odds=1
+SYA = Stanleybet away win odds=1
+VCH = VC Bet home win odds=1
+VCD = VC Bet draw odds=1
+VCA = VC Bet away win odds=1
+WHH = William Hill home win odds=1
+WHD = William Hill draw odds=1
+WHA = William Hill away win odds=1
+Bb1X2 = Number of BetBrain bookmakers used to calculate match odds averages and maximums=1
+BbMxH = Betbrain maximum home win odds=1
+BbAvH = Betbrain average home win odds=1
+BbMxD = Betbrain maximum draw odds=1
+BbAvD = Betbrain average draw win odds=1
+BbMxA = Betbrain maximum away win odds=1
+BbAvA = Betbrain average away win odds=1
+MaxH = Market maximum home win odds=1
+MaxD = Market maximum draw win odds=1
+MaxA = Market maximum away win odds=1
+AvgH = Market average home win odds=1
+AvgD = Market average draw win odds=1
+AvgA = Market average away win odds=1
+BbOU = Number of BetBrain bookmakers used to calculate over/under 2.5 goals (total goals) averages and maximums=1
+BbMx>2.5 = Betbrain maximum over 2.5 goals=1
+BbAv>2.5 = Betbrain average over 2.5 goals=1
+BbMx<2.5 = Betbrain maximum under 2.5 goals=1
+BbAv<2.5 = Betbrain average under 2.5 goals=1
+GB>2.5 = Gamebookers over 2.5 goals=1
+GB<2.5 = Gamebookers under 2.5 goals=1
+B365>2.5 = Bet365 over 2.5 goals=1
+B365<2.5 = Bet365 under 2.5 goals=1
+P>2.5 = Pinnacle over 2.5 goals=1
+P<2.5 = Pinnacle under 2.5 goals=1
+Max>2.5 = Market maximum over 2.5 goals=1
+Max<2.5 = Market maximum under 2.5 goals=1
+Avg>2.5 = Market average over 2.5 goals=1
+Avg<2.5 = Market average under 2.5 goals=1
+BbAH = Number of BetBrain bookmakers used to Asian handicap averages and maximums=1
+BbAHh = Betbrain size of handicap (home team)=1
+AHh = Market size of handicap (home team) (since 2019/2020)=1
+BbMxAHH = Betbrain maximum Asian handicap home team odds=1
+BbAvAHH = Betbrain average Asian handicap home team odds=1
+BbMxAHA = Betbrain maximum Asian handicap away team odds=1
+BbAvAHA = Betbrain average Asian handicap away team odds=1
+GBAHH = Gamebookers Asian handicap home team odds=1
+GBAHA = Gamebookers Asian handicap away team odds=1
+GBAH = Gamebookers size of handicap (home team)=1
+LBAHH = Ladbrokes Asian handicap home team odds=1
+LBAHA = Ladbrokes Asian handicap away team odds=1
+LBAH = Ladbrokes size of handicap (home team)=1
+B365AHH = Bet365 Asian handicap home team odds=1
+B365AHA = Bet365 Asian handicap away team odds=1
+B365AH = Bet365 size of handicap (home team)=1
+PAHH = Pinnacle Asian handicap home team odds=1
+PAHA = Pinnacle Asian handicap away team odds=1
+MaxAHH = Market maximum Asian handicap home team odds=1
+MaxAHA = Market maximum Asian handicap away team odds=1
+AvgAHH = Market average Asian handicap home team odds=1
+AvgAHA = Market average Asian handicap away team odds=1
+B365CH=B365CH (unknown abbreviation)=1
+B365CH=B365CH (unknown abbreviation)=1
+B365CD=B365CD (unknown abbreviation)=1
+B365CA=B365CA (unknown abbreviation)=1
+BWCH=BWCH (unknown abbreviation)=1
+BWCD=BWCD (unknown abbreviation)=1
+BWCA=BWCA (unknown abbreviation)=1
+IWCH=IWCH (unknown abbreviation)=1
+IWCD=IWCD (unknown abbreviation)=1
+IWCA=IWCA (unknown abbreviation)=1
+PSCH=PSCH (unknown abbreviation)=1
+PSCD=PSCD (unknown abbreviation)=1
+PSCA=PSCA (unknown abbreviation)=1
+WHCH=WHCH (unknown abbreviation)=1
+WHCD=WHCD (unknown abbreviation)=1
+WHCA=WHCA (unknown abbreviation)=1
+VCCH=VCCH (unknown abbreviation)=1
+VCCD=VCCD (unknown abbreviation)=1
+VCCA=VCCA (unknown abbreviation)=1
+MaxCH=MaxCH (unknown abbreviation)=1
+MaxCD=MaxCD (unknown abbreviation)=1
+MaxCA=MaxCA (unknown abbreviation)=1
+AvgCH=AvgCH (unknown abbreviation)=1
+AvgCD=AvgCD (unknown abbreviation)=1
+AvgCA=AvgCA (unknown abbreviation)=1
+B365C>2.5=B365C>2.5 (unknown abbreviation)=1
+B365C<2.5=B365C<2.5 (unknown abbreviation)=1
+PC>2.5=PC>2.5 (unknown abbreviation)=1
+PC<2.5=PC<2.5 (unknown abbreviation)=1
+MaxC>2.5=MaxC>2.5 (unknown abbreviation)=1
+MaxC<2.5=MaxC<2.5 (unknown abbreviation)=1
+AvgC>2.5=AvgC>2.5 (unknown abbreviation)=1
+AvgC<2.5=AvgC<2.5 (unknown abbreviation)=1
+AHCh=AHCh (unknown abbreviation)=1
+B365CAHH=B365CAHH (unknown abbreviation)=1
+B365CAHA=B365CAHA (unknown abbreviation)=1
+PCAHH=PCAHH (unknown abbreviation)=1
+PCAHA=PCAHA (unknown abbreviation)=1
+MaxCAHH=MaxCAHH (unknown abbreviation)=1
+MaxCAHA=MaxCAHA (unknown abbreviation)=1
+AvgCAHH=AvgCAHH (unknown abbreviation)=1
+AvgCAHA=AvgCAHA (unknown abbreviation)=1

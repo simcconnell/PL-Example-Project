@@ -1,0 +1,1941 @@
+Predictions for season 13
+Mean squared error: 1.270543
+toNumeric__HomeTeam_Arsenal,0.055868120116973397
+toNumeric__HomeTeam_Aston Villa,0.015888019498725314
+toNumeric__HomeTeam_Birmingham,-0.007662081536380816
+toNumeric__HomeTeam_Blackburn,-0.013102904905577417
+toNumeric__HomeTeam_Bolton,-0.05681003543750429
+toNumeric__HomeTeam_Bradford,-0.024751690061354692
+toNumeric__HomeTeam_Charlton,-0.02766929233575835
+toNumeric__HomeTeam_Chelsea,0.07049896763222824
+toNumeric__HomeTeam_Coventry,-0.017650979811085432
+toNumeric__HomeTeam_Crystal Palace,0.03443617279663713
+toNumeric__HomeTeam_Derby,-0.042693535774229185
+toNumeric__HomeTeam_Everton,0.012195948257995304
+toNumeric__HomeTeam_Fulham,0.027436063377606512
+toNumeric__HomeTeam_Ipswich,-0.020727579085495274
+toNumeric__HomeTeam_Leeds,-0.0031074088192009075
+toNumeric__HomeTeam_Leicester,-0.07131094933193816
+toNumeric__HomeTeam_Liverpool,0.03147955099920541
+toNumeric__HomeTeam_Man City,-0.04852131056865644
+toNumeric__HomeTeam_Man United,0.07036241744542654
+toNumeric__HomeTeam_Middlesbrough,-0.0019527083945314327
+toNumeric__HomeTeam_Newcastle,0.009661519965996068
+toNumeric__HomeTeam_Norwich,-0.0028871583423365427
+toNumeric__HomeTeam_Portsmouth,0.00899303589106637
+toNumeric__HomeTeam_Southampton,0.009862426562053495
+toNumeric__HomeTeam_Sunderland,-0.03821557440682555
+toNumeric__HomeTeam_Tottenham,0.02577444112406406
+toNumeric__HomeTeam_West Brom,-0.07635341249704797
+toNumeric__HomeTeam_West Ham,-0.008687223047001202
+toNumeric__HomeTeam_Wigan,0.0
+toNumeric__HomeTeam_Wolves,0.00011137871453881232
+toNumeric__AwayTeam_Arsenal,-0.05272624560909611
+toNumeric__AwayTeam_Aston Villa,0.039955289041170905
+toNumeric__AwayTeam_Birmingham,-0.007633759610066404
+toNumeric__AwayTeam_Blackburn,-0.057040806792935106
+toNumeric__AwayTeam_Bolton,-0.010052241855218691
+toNumeric__AwayTeam_Bradford,0.04356598772914255
+toNumeric__AwayTeam_Charlton,-0.006367010189677114
+toNumeric__AwayTeam_Chelsea,-0.09421425602630562
+toNumeric__AwayTeam_Coventry,0.026227189602271106
+toNumeric__AwayTeam_Crystal Palace,0.035819948789427236
+toNumeric__AwayTeam_Derby,0.03352571712325081
+toNumeric__AwayTeam_Everton,0.04577111134773648
+toNumeric__AwayTeam_Fulham,-0.00032924351280849695
+toNumeric__AwayTeam_Ipswich,0.0005016600706311269
+toNumeric__AwayTeam_Leeds,-0.026747691730377277
+toNumeric__AwayTeam_Leicester,-0.01462556943833912
+toNumeric__AwayTeam_Liverpool,-0.03240496691424
+toNumeric__AwayTeam_Man City,0.018129184291206135
+toNumeric__AwayTeam_Man United,-0.02154564922087221
+toNumeric__AwayTeam_Middlesbrough,0.00027699230078293
+toNumeric__AwayTeam_Newcastle,0.000470625445332884
+toNumeric__AwayTeam_Norwich,0.014499054455024418
+toNumeric__AwayTeam_Portsmouth,0.040253241454113464
+toNumeric__AwayTeam_Southampton,-0.01597014606689251
+toNumeric__AwayTeam_Sunderland,0.02654374740598331
+toNumeric__AwayTeam_Tottenham,0.026266788624545012
+toNumeric__AwayTeam_West Brom,0.030244336658005855
+toNumeric__AwayTeam_West Ham,0.034575319181165076
+toNumeric__AwayTeam_Wigan,0.0
+toNumeric__AwayTeam_Wolves,0.05809409442139557
+toNumeric__HTR_A,-0.011294007537422573
+toNumeric__HTR_D,0.0033733909414794816
+toNumeric__HTR_H,0.0064684972166491606
+toNumeric__Referee_A D'Urso,0.03495883032285041
+toNumeric__Referee_A Hall,0.023736820496684283
+toNumeric__Referee_A Marriner,0.012186546389757016
+toNumeric__Referee_A Wiley,-0.029294906771817453
+toNumeric__Referee_B Knight,0.08651325967295598
+toNumeric__Referee_C Foy,0.035761797479206936
+toNumeric__Referee_C Wilkes,0.017322397028169956
+toNumeric__Referee_D Elleray,-0.005047022673265289
+toNumeric__Referee_D Gallagher,-0.008084602417557984
+toNumeric__Referee_D Pugh,-0.0026532289821502505
+toNumeric__Referee_E Wolstenholme,-0.03369145178669408
+toNumeric__Referee_F Taylor,0.0
+toNumeric__Referee_G Barber,-0.08930572604949283
+toNumeric__Referee_G Poll,-0.05133016248655553
+toNumeric__Referee_H Webb,0.024798125487949463
+toNumeric__Referee_I Harris,0.03934186836864699
+toNumeric__Referee_I Williamson,0.0
+toNumeric__Referee_J Winter,-0.03076738269937418
+toNumeric__Referee_K Stroud,0.0
+toNumeric__Referee_L Mason,0.0
+toNumeric__Referee_M Atkinson,0.026699286396123068
+toNumeric__Referee_M Clattenburg,-0.002545326118883362
+toNumeric__Referee_M Dean,0.017568574333064968
+toNumeric__Referee_M Halsey,0.032340645938950474
+toNumeric__Referee_M Messias,-0.025850604933778443
+toNumeric__Referee_M Riley,0.0242040550789403
+toNumeric__Referee_N Barry,0.017348363990551396
+toNumeric__Referee_N Yates,0.0
+toNumeric__Referee_P Crossley,0.0
+toNumeric__Referee_P Dowd,0.013389877656031834
+toNumeric__Referee_P Durkin,0.0005162338227951424
+toNumeric__Referee_P Jones,0.019961928677094898
+toNumeric__Referee_P Taylor,0.0011061321038750016
+toNumeric__Referee_P Walton,0.007386934709007888
+toNumeric__Referee_R Beeby,0.0
+toNumeric__Referee_R Burton,0.0
+toNumeric__Referee_R Harris,0.0
+toNumeric__Referee_R Martin,0.0
+toNumeric__Referee_R Styles,-0.0020916888737875783
+toNumeric__Referee_S Bennett,-0.02265838804526371
+toNumeric__Referee_S Dunn,0.018364110395761357
+toNumeric__Referee_S Lodge,-0.02092381387934461
+toNumeric__Referee_U Rennie,-0.02292403101236251
+remainder__Date,0.0007399328826974139
+remainder__HTHG,0.671369433265906
+remainder__HTAG,-0.49295226545937776
+remainder__HS,-0.04247395097441506
+remainder__AS,0.07459859247864706
+remainder__HST,0.36542017822422534
+remainder__AST,-0.4378725319237926
+remainder__HC,-0.11465051397478171
+remainder__AC,0.11358485377850583
+remainder__HF,-0.01955436390226456
+remainder__AF,-0.0007794646369979064
+remainder__HY,-0.1072690604066032
+remainder__AY,0.07248220830257118
+remainder__HR,-0.16737917972201855
+remainder__AR,0.12075664167364564
+remainder__Season,-0.060896501010887394
+
+Predictions for season 13
+Mean squared error: 1.270543
+toNumeric__HomeTeam_Arsenal,0.055868120116973397
+toNumeric__HomeTeam_Aston Villa,0.015888019498725314
+toNumeric__HomeTeam_Birmingham,-0.007662081536380816
+toNumeric__HomeTeam_Blackburn,-0.013102904905577417
+toNumeric__HomeTeam_Bolton,-0.05681003543750429
+toNumeric__HomeTeam_Bradford,-0.024751690061354692
+toNumeric__HomeTeam_Charlton,-0.02766929233575835
+toNumeric__HomeTeam_Chelsea,0.07049896763222824
+toNumeric__HomeTeam_Coventry,-0.017650979811085432
+toNumeric__HomeTeam_Crystal Palace,0.03443617279663713
+toNumeric__HomeTeam_Derby,-0.042693535774229185
+toNumeric__HomeTeam_Everton,0.012195948257995304
+toNumeric__HomeTeam_Fulham,0.027436063377606512
+toNumeric__HomeTeam_Ipswich,-0.020727579085495274
+toNumeric__HomeTeam_Leeds,-0.0031074088192009075
+toNumeric__HomeTeam_Leicester,-0.07131094933193816
+toNumeric__HomeTeam_Liverpool,0.03147955099920541
+toNumeric__HomeTeam_Man City,-0.04852131056865644
+toNumeric__HomeTeam_Man United,0.07036241744542654
+toNumeric__HomeTeam_Middlesbrough,-0.0019527083945314327
+toNumeric__HomeTeam_Newcastle,0.009661519965996068
+toNumeric__HomeTeam_Norwich,-0.0028871583423365427
+toNumeric__HomeTeam_Portsmouth,0.00899303589106637
+toNumeric__HomeTeam_Southampton,0.009862426562053495
+toNumeric__HomeTeam_Sunderland,-0.03821557440682555
+toNumeric__HomeTeam_Tottenham,0.02577444112406406
+toNumeric__HomeTeam_West Brom,-0.07635341249704797
+toNumeric__HomeTeam_West Ham,-0.008687223047001202
+toNumeric__HomeTeam_Wigan,0.0
+toNumeric__HomeTeam_Wolves,0.00011137871453881232
+toNumeric__AwayTeam_Arsenal,-0.05272624560909611
+toNumeric__AwayTeam_Aston Villa,0.039955289041170905
+toNumeric__AwayTeam_Birmingham,-0.007633759610066404
+toNumeric__AwayTeam_Blackburn,-0.057040806792935106
+toNumeric__AwayTeam_Bolton,-0.010052241855218691
+toNumeric__AwayTeam_Bradford,0.04356598772914255
+toNumeric__AwayTeam_Charlton,-0.006367010189677114
+toNumeric__AwayTeam_Chelsea,-0.09421425602630562
+toNumeric__AwayTeam_Coventry,0.026227189602271106
+toNumeric__AwayTeam_Crystal Palace,0.035819948789427236
+toNumeric__AwayTeam_Derby,0.03352571712325081
+toNumeric__AwayTeam_Everton,0.04577111134773648
+toNumeric__AwayTeam_Fulham,-0.00032924351280849695
+toNumeric__AwayTeam_Ipswich,0.0005016600706311269
+toNumeric__AwayTeam_Leeds,-0.026747691730377277
+toNumeric__AwayTeam_Leicester,-0.01462556943833912
+toNumeric__AwayTeam_Liverpool,-0.03240496691424
+toNumeric__AwayTeam_Man City,0.018129184291206135
+toNumeric__AwayTeam_Man United,-0.02154564922087221
+toNumeric__AwayTeam_Middlesbrough,0.00027699230078293
+toNumeric__AwayTeam_Newcastle,0.000470625445332884
+toNumeric__AwayTeam_Norwich,0.014499054455024418
+toNumeric__AwayTeam_Portsmouth,0.040253241454113464
+toNumeric__AwayTeam_Southampton,-0.01597014606689251
+toNumeric__AwayTeam_Sunderland,0.02654374740598331
+toNumeric__AwayTeam_Tottenham,0.026266788624545012
+toNumeric__AwayTeam_West Brom,0.030244336658005855
+toNumeric__AwayTeam_West Ham,0.034575319181165076
+toNumeric__AwayTeam_Wigan,0.0
+toNumeric__AwayTeam_Wolves,0.05809409442139557
+toNumeric__HTR_A,-0.011294007537422573
+toNumeric__HTR_D,0.0033733909414794816
+toNumeric__HTR_H,0.0064684972166491606
+toNumeric__Referee_A D'Urso,0.03495883032285041
+toNumeric__Referee_A Hall,0.023736820496684283
+toNumeric__Referee_A Marriner,0.012186546389757016
+toNumeric__Referee_A Wiley,-0.029294906771817453
+toNumeric__Referee_B Knight,0.08651325967295598
+toNumeric__Referee_C Foy,0.035761797479206936
+toNumeric__Referee_C Wilkes,0.017322397028169956
+toNumeric__Referee_D Elleray,-0.005047022673265289
+toNumeric__Referee_D Gallagher,-0.008084602417557984
+toNumeric__Referee_D Pugh,-0.0026532289821502505
+toNumeric__Referee_E Wolstenholme,-0.03369145178669408
+toNumeric__Referee_F Taylor,0.0
+toNumeric__Referee_G Barber,-0.08930572604949283
+toNumeric__Referee_G Poll,-0.05133016248655553
+toNumeric__Referee_H Webb,0.024798125487949463
+toNumeric__Referee_I Harris,0.03934186836864699
+toNumeric__Referee_I Williamson,0.0
+toNumeric__Referee_J Winter,-0.03076738269937418
+toNumeric__Referee_K Stroud,0.0
+toNumeric__Referee_L Mason,0.0
+toNumeric__Referee_M Atkinson,0.026699286396123068
+toNumeric__Referee_M Clattenburg,-0.002545326118883362
+toNumeric__Referee_M Dean,0.017568574333064968
+toNumeric__Referee_M Halsey,0.032340645938950474
+toNumeric__Referee_M Messias,-0.025850604933778443
+toNumeric__Referee_M Riley,0.0242040550789403
+toNumeric__Referee_N Barry,0.017348363990551396
+toNumeric__Referee_N Yates,0.0
+toNumeric__Referee_P Crossley,0.0
+toNumeric__Referee_P Dowd,0.013389877656031834
+toNumeric__Referee_P Durkin,0.0005162338227951424
+toNumeric__Referee_P Jones,0.019961928677094898
+toNumeric__Referee_P Taylor,0.0011061321038750016
+toNumeric__Referee_P Walton,0.007386934709007888
+toNumeric__Referee_R Beeby,0.0
+toNumeric__Referee_R Burton,0.0
+toNumeric__Referee_R Harris,0.0
+toNumeric__Referee_R Martin,0.0
+toNumeric__Referee_R Styles,-0.0020916888737875783
+toNumeric__Referee_S Bennett,-0.02265838804526371
+toNumeric__Referee_S Dunn,0.018364110395761357
+toNumeric__Referee_S Lodge,-0.02092381387934461
+toNumeric__Referee_U Rennie,-0.02292403101236251
+remainder__Date,0.0007399328826974139
+remainder__HTHG,0.671369433265906
+remainder__HTAG,-0.49295226545937776
+remainder__HS,-0.04247395097441506
+remainder__AS,0.07459859247864706
+remainder__HST,0.36542017822422534
+remainder__AST,-0.4378725319237926
+remainder__HC,-0.11465051397478171
+remainder__AC,0.11358485377850583
+remainder__HF,-0.01955436390226456
+remainder__AF,-0.0007794646369979064
+remainder__HY,-0.1072690604066032
+remainder__AY,0.07248220830257118
+remainder__HR,-0.16737917972201855
+remainder__AR,0.12075664167364564
+remainder__Season,-0.060896501010887394
+
+Predictions for season 14
+Mean squared error: 1.304572
+toNumeric__HomeTeam_Arsenal,0.052800175264696436
+toNumeric__HomeTeam_Aston Villa,-0.052518827491575104
+toNumeric__HomeTeam_Birmingham,-0.01063977244904346
+toNumeric__HomeTeam_Blackburn,0.01772731725302734
+toNumeric__HomeTeam_Bolton,-0.0178092880847473
+toNumeric__HomeTeam_Charlton,-0.06439773073325206
+toNumeric__HomeTeam_Chelsea,0.07502180350905174
+toNumeric__HomeTeam_Crystal Palace,0.05156777947765538
+toNumeric__HomeTeam_Derby,-0.02538879079593004
+toNumeric__HomeTeam_Everton,0.018792156637423063
+toNumeric__HomeTeam_Fulham,-0.0010878557279940804
+toNumeric__HomeTeam_Ipswich,-0.027881169185800747
+toNumeric__HomeTeam_Leeds,-0.02038988575055578
+toNumeric__HomeTeam_Leicester,-0.06905145391637091
+toNumeric__HomeTeam_Liverpool,0.035527254239128614
+toNumeric__HomeTeam_Man City,-0.07636380852598268
+toNumeric__HomeTeam_Man United,0.1045000068438231
+toNumeric__HomeTeam_Middlesbrough,-0.0039948684661778346
+toNumeric__HomeTeam_Newcastle,-0.014698634447879222
+toNumeric__HomeTeam_Norwich,0.021120277388837927
+toNumeric__HomeTeam_Portsmouth,0.016262318487092586
+toNumeric__HomeTeam_Reading,0.0
+toNumeric__HomeTeam_Sheffield United,0.0
+toNumeric__HomeTeam_Southampton,-0.003177786886296663
+toNumeric__HomeTeam_Sunderland,-0.0548485575391906
+toNumeric__HomeTeam_Tottenham,0.04223746414052587
+toNumeric__HomeTeam_Watford,0.0
+toNumeric__HomeTeam_West Brom,-0.06330886506261746
+toNumeric__HomeTeam_West Ham,0.018731456834102156
+toNumeric__HomeTeam_Wigan,-0.007540133533350257
+toNumeric__HomeTeam_Wolves,0.01907293712331315
+toNumeric__AwayTeam_Arsenal,-0.018165007947332112
+toNumeric__AwayTeam_Aston Villa,-0.0019502202626910936
+toNumeric__AwayTeam_Birmingham,0.0058237973823231926
+toNumeric__AwayTeam_Blackburn,-0.012639156333873747
+toNumeric__AwayTeam_Bolton,-0.0004988508753970278
+toNumeric__AwayTeam_Charlton,-0.057816789272485736
+toNumeric__AwayTeam_Chelsea,-0.10832046462840705
+toNumeric__AwayTeam_Crystal Palace,0.01714762228339506
+toNumeric__AwayTeam_Derby,0.037021940926941665
+toNumeric__AwayTeam_Everton,0.06122663419463212
+toNumeric__AwayTeam_Fulham,0.003433562817367508
+toNumeric__AwayTeam_Ipswich,0.009728479783608801
+toNumeric__AwayTeam_Leeds,0.03910491169860175
+toNumeric__AwayTeam_Leicester,-0.012448631343407568
+toNumeric__AwayTeam_Liverpool,-0.0304737386998446
+toNumeric__AwayTeam_Man City,-0.04038301819751122
+toNumeric__AwayTeam_Man United,-0.05562026233834105
+toNumeric__AwayTeam_Middlesbrough,0.04463882410975628
+toNumeric__AwayTeam_Newcastle,-0.010608727409458507
+toNumeric__AwayTeam_Norwich,0.04369906168049287
+toNumeric__AwayTeam_Portsmouth,0.054145307452301394
+toNumeric__AwayTeam_Reading,0.0
+toNumeric__AwayTeam_Sheffield United,0.0
+toNumeric__AwayTeam_Southampton,-0.02519498119024457
+toNumeric__AwayTeam_Sunderland,0.07108422523894886
+toNumeric__AwayTeam_Tottenham,0.019562398452251384
+toNumeric__AwayTeam_Watford,0.0
+toNumeric__AwayTeam_West Brom,0.06275309327641132
+toNumeric__AwayTeam_West Ham,-0.005823515484310704
+toNumeric__AwayTeam_Wigan,-0.01960562721535375
+toNumeric__AwayTeam_Wolves,0.03419216911365863
+toNumeric__HTR_A,0.021941448798750707
+toNumeric__HTR_D,0.019201838106739533
+toNumeric__HTR_H,-0.03882804892045916
+toNumeric__Referee_A D'Urso,0.0022475100768702405
+toNumeric__Referee_A Marriner,0.03964104949126035
+toNumeric__Referee_A Wiley,-0.02785670615212621
+toNumeric__Referee_B Knight,0.029718389504768572
+toNumeric__Referee_C Foy,0.05017812490248996
+toNumeric__Referee_C Wilkes,0.003970141299013408
+toNumeric__Referee_D Elleray,-0.051040200040210815
+toNumeric__Referee_D Gallagher,-0.011660024425326765
+toNumeric__Referee_D Pugh,0.00402302889399353
+toNumeric__Referee_E Wolstenholme,0.022866876437202643
+toNumeric__Referee_G Barber,-0.03061003924446104
+toNumeric__Referee_G Poll,-0.022458481953685827
+toNumeric__Referee_H Webb,-0.036484950768742586
+toNumeric__Referee_I Williamson,0.0007807791155052049
+toNumeric__Referee_J Winter,-0.023159672686334343
+toNumeric__Referee_K Stroud,0.006879401107949389
+toNumeric__Referee_L Mason,-0.0479879604883689
+toNumeric__Referee_L Probert,0.0
+toNumeric__Referee_M Atkinson,0.005998962835563781
+toNumeric__Referee_M Clattenburg,-0.03939101718435567
+toNumeric__Referee_M Dean,0.005683391957948536
+toNumeric__Referee_M Halsey,0.012639399894333048
+toNumeric__Referee_M Messias,0.008922544962630674
+toNumeric__Referee_M Riley,0.00847579940387444
+toNumeric__Referee_N Barry,0.05269826352687046
+toNumeric__Referee_N Yates,0.006786901657695691
+toNumeric__Referee_P Crossley,0.005383898050267177
+toNumeric__Referee_P Dowd,0.030494717539965466
+toNumeric__Referee_P Durkin,-0.001361959544473601
+toNumeric__Referee_P Jones,0.02432677382143167
+toNumeric__Referee_P Walton,-0.012621472331585837
+toNumeric__Referee_R Beeby,-0.013727065926043263
+toNumeric__Referee_R Martin,0.011789815248618357
+toNumeric__Referee_R Styles,0.008871478258173582
+toNumeric__Referee_S Bennett,-0.03714531463821591
+toNumeric__Referee_S Dunn,0.026385083384753094
+toNumeric__Referee_S Tanner,0.0
+toNumeric__Referee_U Rennie,0.006166800523529914
+remainder__Date,-0.005120384810988088
+remainder__HTHG,0.7651107460496089
+remainder__HTAG,-0.5497698811464453
+remainder__HS,-0.12741428783266517
+remainder__AS,0.15384437330342143
+remainder__HST,0.33317657368544573
+remainder__AST,-0.41749393310826954
+remainder__HC,-0.06933069030561878
+remainder__AC,0.13519852204534638
+remainder__HF,-0.019628934166626477
+remainder__AF,-0.015308732362098676
+remainder__HY,-0.062434035663897214
+remainder__AY,0.022756874553919226
+remainder__HR,-0.15217162235780768
+remainder__AR,0.07468532356762037
+remainder__Season,-0.0016515282995945846
+
+Predictions for season 15
+Mean squared error: 1.605088
+toNumeric__HomeTeam_Arsenal,0.10288716009047238
+toNumeric__HomeTeam_Aston Villa,0.01121375558496207
+toNumeric__HomeTeam_Birmingham,-0.025529336966550575
+toNumeric__HomeTeam_Blackburn,-0.013673668166959474
+toNumeric__HomeTeam_Bolton,-0.02706541612404534
+toNumeric__HomeTeam_Charlton,-0.050560439713536964
+toNumeric__HomeTeam_Chelsea,0.09482936227962102
+toNumeric__HomeTeam_Crystal Palace,0.012430664258995971
+toNumeric__HomeTeam_Derby,0.0
+toNumeric__HomeTeam_Everton,0.03792592176222476
+toNumeric__HomeTeam_Fulham,-0.009693442242857786
+toNumeric__HomeTeam_Leeds,-0.04977473563644835
+toNumeric__HomeTeam_Leicester,-0.05753356936328968
+toNumeric__HomeTeam_Liverpool,0.050752995538519086
+toNumeric__HomeTeam_Man City,-0.04614974055864607
+toNumeric__HomeTeam_Man United,0.10463228897167659
+toNumeric__HomeTeam_Middlesbrough,-0.0003915810696809574
+toNumeric__HomeTeam_Newcastle,-0.009356272407288868
+toNumeric__HomeTeam_Norwich,0.0018204618719675492
+toNumeric__HomeTeam_Portsmouth,0.00012076709151226384
+toNumeric__HomeTeam_Reading,0.03156190620517174
+toNumeric__HomeTeam_Sheffield United,-0.004162221034758717
+toNumeric__HomeTeam_Southampton,0.041704283108114804
+toNumeric__HomeTeam_Sunderland,-0.11830060331853565
+toNumeric__HomeTeam_Tottenham,0.038717812025763076
+toNumeric__HomeTeam_Watford,-0.015560482597470227
+toNumeric__HomeTeam_West Brom,-0.10494180253336804
+toNumeric__HomeTeam_West Ham,-0.005008442653799128
+toNumeric__HomeTeam_Wigan,-0.11746892127940534
+toNumeric__HomeTeam_Wolves,-0.02209357618286134
+toNumeric__AwayTeam_Arsenal,-0.06667205338696547
+toNumeric__AwayTeam_Aston Villa,-0.002411849440378866
+toNumeric__AwayTeam_Birmingham,0.03177969925073498
+toNumeric__AwayTeam_Blackburn,-0.06071431235665464
+toNumeric__AwayTeam_Bolton,-0.03133026053824445
+toNumeric__AwayTeam_Charlton,0.031007157693827836
+toNumeric__AwayTeam_Chelsea,-0.12803894395781257
+toNumeric__AwayTeam_Crystal Palace,0.033462615599960444
+toNumeric__AwayTeam_Derby,0.0
+toNumeric__AwayTeam_Everton,0.036191991313788474
+toNumeric__AwayTeam_Fulham,0.010464149804297107
+toNumeric__AwayTeam_Leeds,0.02188746443553674
+toNumeric__AwayTeam_Leicester,-0.02887433449095933
+toNumeric__AwayTeam_Liverpool,-0.02491269393585005
+toNumeric__AwayTeam_Man City,0.009801018439956843
+toNumeric__AwayTeam_Man United,-0.05657464167721027
+toNumeric__AwayTeam_Middlesbrough,0.03452476963594442
+toNumeric__AwayTeam_Newcastle,-0.004498229786804697
+toNumeric__AwayTeam_Norwich,0.024518180219067487
+toNumeric__AwayTeam_Portsmouth,0.05987891977645321
+toNumeric__AwayTeam_Reading,-0.06426140285219817
+toNumeric__AwayTeam_Sheffield United,0.06294376736751728
+toNumeric__AwayTeam_Southampton,0.01089437907186186
+toNumeric__AwayTeam_Sunderland,0.03170108148768114
+toNumeric__AwayTeam_Tottenham,-0.006618174881986794
+toNumeric__AwayTeam_Watford,0.045198548494617796
+toNumeric__AwayTeam_West Brom,0.08066336047220166
+toNumeric__AwayTeam_West Ham,-0.00459766266477879
+toNumeric__AwayTeam_Wigan,0.021786268817295396
+toNumeric__AwayTeam_Wolves,0.06065708549711912
+toNumeric__HTR_A,0.0022805597061708593
+toNumeric__HTR_D,0.023904826756842523
+toNumeric__HTR_H,-0.026627019968979454
+toNumeric__Referee_A D'Urso,0.010043708780747673
+toNumeric__Referee_A Marriner,0.021938098857415378
+toNumeric__Referee_A Wiley,-0.049540913521450625
+toNumeric__Referee_B Knight,0.03080321201196761
+toNumeric__Referee_C Foy,0.025211970738682477
+toNumeric__Referee_C Wilkes,-0.0029425089177443587
+toNumeric__Referee_D Elleray,0.0017568644726870808
+toNumeric__Referee_D Gallagher,-0.007334023831573333
+toNumeric__Referee_D Pugh,0.0
+toNumeric__Referee_E Wolstenholme,0.0
+toNumeric__Referee_G Barber,-0.031014647343888146
+toNumeric__Referee_G Poll,-0.03971407131598381
+toNumeric__Referee_H Webb,0.018678977748718184
+toNumeric__Referee_I Williamson,0.0
+toNumeric__Referee_J Winter,0.034733971801783614
+toNumeric__Referee_K Stroud,-0.01411530782496273
+toNumeric__Referee_L Mason,-0.029836526274925612
+toNumeric__Referee_L Probert,-0.012771275381995443
+toNumeric__Referee_M Atkinson,0.009784037532401424
+toNumeric__Referee_M Clattenburg,-0.028003895245915844
+toNumeric__Referee_M Dean,-0.011082249423908563
+toNumeric__Referee_M Halsey,0.04067759450234254
+toNumeric__Referee_M Messias,-0.04349227826715141
+toNumeric__Referee_M Riley,0.016849613243576894
+toNumeric__Referee_N Barry,0.028456048950195822
+toNumeric__Referee_P Crossley,0.0
+toNumeric__Referee_P Dowd,0.025187203895394306
+toNumeric__Referee_P Durkin,-0.016681026515273145
+toNumeric__Referee_P Walton,-0.04270414151957502
+toNumeric__Referee_R Beeby,-0.00037028086025248834
+toNumeric__Referee_R Martin,0.0
+toNumeric__Referee_R Styles,0.02691372099201339
+toNumeric__Referee_S Bennett,-0.0159152125976334
+toNumeric__Referee_S Dunn,0.009397612168612457
+toNumeric__Referee_S Tanner,-0.00800805355674143
+toNumeric__Referee_U Rennie,0.014404189255000588
+remainder__Date,-0.0058068085150310145
+remainder__HTHG,0.7669091464160632
+remainder__HTAG,-0.5064846262757954
+remainder__HS,-0.04952337802836715
+remainder__AS,0.0687555237655195
+remainder__HST,0.25073335316360623
+remainder__AST,-0.40296095450926706
+remainder__HF,-0.035667920509039774
+remainder__AF,-0.008677466011349
+remainder__HC,-0.15017609255471814
+remainder__AC,0.13719368605168314
+remainder__HY,0.0019816941960787704
+remainder__AY,0.04241360421302742
+remainder__HR,-0.13179206224820622
+remainder__AR,0.08737691979194295
+remainder__Season,0.0007218532669015509
+
+Predictions for season 16
+Mean squared error: 1.391871
+toNumeric__HomeTeam_Arsenal,0.11311494064362188
+toNumeric__HomeTeam_Aston Villa,-0.011668224322236243
+toNumeric__HomeTeam_Birmingham,-0.028453685786596905
+toNumeric__HomeTeam_Blackburn,0.02440192888946313
+toNumeric__HomeTeam_Bolton,-0.004028764407456031
+toNumeric__HomeTeam_Charlton,-0.04725222420524644
+toNumeric__HomeTeam_Chelsea,0.06354258955923586
+toNumeric__HomeTeam_Crystal Palace,0.02752388138914959
+toNumeric__HomeTeam_Derby,-0.10087245531905475
+toNumeric__HomeTeam_Everton,-0.0002455171947783885
+toNumeric__HomeTeam_Fulham,-0.04170381589926103
+toNumeric__HomeTeam_Hull,0.0
+toNumeric__HomeTeam_Leeds,-0.018647265486390063
+toNumeric__HomeTeam_Leicester,-0.028377715482925225
+toNumeric__HomeTeam_Liverpool,0.07203036219796266
+toNumeric__HomeTeam_Man City,-0.0665922845979457
+toNumeric__HomeTeam_Man United,0.10087152158548507
+toNumeric__HomeTeam_Middlesbrough,-0.015842222904425607
+toNumeric__HomeTeam_Newcastle,-0.032861765165099865
+toNumeric__HomeTeam_Norwich,0.02705481157851697
+toNumeric__HomeTeam_Portsmouth,0.028703187277231756
+toNumeric__HomeTeam_Reading,0.016014061457301
+toNumeric__HomeTeam_Sheffield United,-0.02774626359821486
+toNumeric__HomeTeam_Southampton,-0.007978721314508386
+toNumeric__HomeTeam_Stoke,0.0
+toNumeric__HomeTeam_Sunderland,-0.0338703233161215
+toNumeric__HomeTeam_Tottenham,0.029204969425856597
+toNumeric__HomeTeam_Watford,-0.04173976107838495
+toNumeric__HomeTeam_West Brom,-0.04486920950073037
+toNumeric__HomeTeam_West Ham,-0.04680510607775523
+toNumeric__HomeTeam_Wigan,-0.0406562131655801
+toNumeric__HomeTeam_Wolves,-0.007057911468673961
+toNumeric__AwayTeam_Arsenal,-0.034232937114939244
+toNumeric__AwayTeam_Aston Villa,-0.01744672456329399
+toNumeric__AwayTeam_Birmingham,0.046638529154152564
+toNumeric__AwayTeam_Blackburn,-0.03151287333775976
+toNumeric__AwayTeam_Bolton,-0.02205456415099638
+toNumeric__AwayTeam_Charlton,-0.014196455893696891
+toNumeric__AwayTeam_Chelsea,-0.1365043486182681
+toNumeric__AwayTeam_Crystal Palace,0.012242453219782234
+toNumeric__AwayTeam_Derby,0.07280750719292706
+toNumeric__AwayTeam_Everton,0.0002548332406849818
+toNumeric__AwayTeam_Fulham,0.008467197164193863
+toNumeric__AwayTeam_Hull,0.0
+toNumeric__AwayTeam_Leeds,0.06823370071039214
+toNumeric__AwayTeam_Leicester,-0.024981436765113774
+toNumeric__AwayTeam_Liverpool,-0.03402145079931207
+toNumeric__AwayTeam_Man City,-0.04622408783044263
+toNumeric__AwayTeam_Man United,-0.0844482799774241
+toNumeric__AwayTeam_Middlesbrough,0.06552092745830695
+toNumeric__AwayTeam_Newcastle,0.03852736824413461
+toNumeric__AwayTeam_Norwich,0.026449486775631303
+toNumeric__AwayTeam_Portsmouth,0.044912386273663896
+toNumeric__AwayTeam_Reading,-0.02767329497480997
+toNumeric__AwayTeam_Sheffield United,0.03225746264023588
+toNumeric__AwayTeam_Southampton,-0.01627541759374906
+toNumeric__AwayTeam_Stoke,0.0
+toNumeric__AwayTeam_Sunderland,0.0525323498215895
+toNumeric__AwayTeam_Tottenham,0.021426708836841057
+toNumeric__AwayTeam_Watford,0.029226020231718053
+toNumeric__AwayTeam_West Brom,0.09002604840708983
+toNumeric__AwayTeam_West Ham,-0.044420387654395155
+toNumeric__AwayTeam_Wigan,0.05835983669747247
+toNumeric__AwayTeam_Wolves,0.05356968162221021
+toNumeric__HTR_A,0.02853962561741996
+toNumeric__HTR_D,0.010762506248095827
+toNumeric__HTR_H,-0.03554720417366247
+toNumeric__Referee_A D'Urso,0.013915686768440905
+toNumeric__Referee_A Marriner,0.010492735408205611
+toNumeric__Referee_A Wiley,-0.022161895433143286
+toNumeric__Referee_B Knight,0.01837276791735354
+toNumeric__Referee_C Foy,0.012653983964948545
+toNumeric__Referee_D Gallagher,0.014198655201480337
+toNumeric__Referee_G Barber,-0.04237021754539083
+toNumeric__Referee_G Poll,-0.019453529592356966
+toNumeric__Referee_H Webb,-0.018307809609262704
+toNumeric__Referee_I Williamson,-0.008962070719920886
+toNumeric__Referee_J Winter,0.034565099235928765
+toNumeric__Referee_K Stroud,-0.03706851672450595
+toNumeric__Referee_L Mason,-0.03637378872520536
+toNumeric__Referee_L Probert,0.015548014427697598
+toNumeric__Referee_M Atkinson,-0.02424424952599824
+toNumeric__Referee_M Clattenburg,-0.04092792098484155
+toNumeric__Referee_M Dean,0.025236086802602142
+toNumeric__Referee_M Halsey,-0.02139702255612541
+toNumeric__Referee_M Jones,0.0
+toNumeric__Referee_M Messias,0.0010928564822163533
+toNumeric__Referee_M Riley,0.02536802207987321
+toNumeric__Referee_N Barry,0.03622768744249227
+toNumeric__Referee_P Crossley,0.006004931213671405
+toNumeric__Referee_P Dowd,0.014158688971746547
+toNumeric__Referee_P Durkin,0.03942337823300268
+toNumeric__Referee_P Walton,-0.0214171506913734
+toNumeric__Referee_R Beeby,-0.04445750187477509
+toNumeric__Referee_R Martin,0.008121813948961392
+toNumeric__Referee_R Styles,0.004644427020232711
+toNumeric__Referee_S Attwell,0.0
+toNumeric__Referee_S Bennett,-0.028993812147235065
+toNumeric__Referee_S Dunn,0.06354010015000555
+toNumeric__Referee_S Tanner,0.0146695950662874
+toNumeric__Referee_U Rennie,0.02002745729174149
+remainder__Date,0.021547774025985872
+remainder__HTHG,0.8045132942610047
+remainder__HTAG,-0.5450391153963444
+remainder__HS,-0.13536782574282175
+remainder__AS,0.07580019181666443
+remainder__HST,0.2785961436027524
+remainder__AST,-0.3577244397904225
+remainder__HF,-0.07906749462046375
+remainder__AF,0.004810301467970651
+remainder__HC,-0.11767947366349737
+remainder__AC,0.15907001932704107
+remainder__HY,-0.018419826573267184
+remainder__AY,0.026602654619516275
+remainder__HR,-0.1261257327523153
+remainder__AR,0.08293827730080972
+remainder__Season,0.07656660472209365
+
+Predictions for season 17
+Mean squared error: 1.673310
+toNumeric__HomeTeam_Arsenal,0.11644586304602433
+toNumeric__HomeTeam_Aston Villa,0.04551155206685603
+toNumeric__HomeTeam_Birmingham,0.0
+toNumeric__HomeTeam_Blackburn,0.010097401084088797
+toNumeric__HomeTeam_Bolton,-0.008753573372020929
+toNumeric__HomeTeam_Burnley,0.0
+toNumeric__HomeTeam_Charlton,-0.026134203174362547
+toNumeric__HomeTeam_Chelsea,0.07813495788402576
+toNumeric__HomeTeam_Crystal Palace,0.0005999806559380261
+toNumeric__HomeTeam_Derby,-0.11758731262306421
+toNumeric__HomeTeam_Everton,0.019417149498773045
+toNumeric__HomeTeam_Fulham,-0.027866039419277067
+toNumeric__HomeTeam_Hull,-0.04829492847446293
+toNumeric__HomeTeam_Liverpool,0.07528604123104987
+toNumeric__HomeTeam_Man City,-0.03710538354937748
+toNumeric__HomeTeam_Man United,0.1010712460333516
+toNumeric__HomeTeam_Middlesbrough,-0.04854758378101331
+toNumeric__HomeTeam_Newcastle,-0.052229093938519044
+toNumeric__HomeTeam_Norwich,0.0
+toNumeric__HomeTeam_Portsmouth,-0.001546001022684207
+toNumeric__HomeTeam_Reading,-0.0037785349382235545
+toNumeric__HomeTeam_Sheffield United,0.0
+toNumeric__HomeTeam_Southampton,0.0050257973356309105
+toNumeric__HomeTeam_Stoke,0.024205068412543884
+toNumeric__HomeTeam_Sunderland,-0.0954261581178697
+toNumeric__HomeTeam_Tottenham,0.02658341533450692
+toNumeric__HomeTeam_Watford,-0.040933703515992514
+toNumeric__HomeTeam_West Brom,-0.03230652703434722
+toNumeric__HomeTeam_West Ham,-0.009001122242087656
+toNumeric__HomeTeam_Wigan,-0.0945095633054398
+toNumeric__HomeTeam_Wolves,0.0
+toNumeric__AwayTeam_Arsenal,-0.08042219843732279
+toNumeric__AwayTeam_Aston Villa,-0.03808268882197685
+toNumeric__AwayTeam_Birmingham,0.060404371359193965
+toNumeric__AwayTeam_Blackburn,0.01762755189960019
+toNumeric__AwayTeam_Bolton,-0.029256775545738467
+toNumeric__AwayTeam_Burnley,0.0
+toNumeric__AwayTeam_Charlton,0.06602362436701603
+toNumeric__AwayTeam_Chelsea,-0.14981415049885205
+toNumeric__AwayTeam_Crystal Palace,0.038018172506290915
+toNumeric__AwayTeam_Derby,0.08477344261651787
+toNumeric__AwayTeam_Everton,0.0008302162536945601
+toNumeric__AwayTeam_Fulham,0.05577205230025223
+toNumeric__AwayTeam_Hull,-0.03082776141230304
+toNumeric__AwayTeam_Liverpool,-0.029016675294075922
+toNumeric__AwayTeam_Man City,0.02097371898867409
+toNumeric__AwayTeam_Man United,-0.11403892704122925
+toNumeric__AwayTeam_Middlesbrough,0.03124807016283815
+toNumeric__AwayTeam_Newcastle,0.018332946249289273
+toNumeric__AwayTeam_Norwich,0.0254570797197482
+toNumeric__AwayTeam_Portsmouth,0.007339353685709343
+toNumeric__AwayTeam_Reading,-0.01659063409355732
+toNumeric__AwayTeam_Sheffield United,0.07046597606165778
+toNumeric__AwayTeam_Southampton,-0.012191867287354663
+toNumeric__AwayTeam_Stoke,-0.027642384815083076
+toNumeric__AwayTeam_Sunderland,0.007984881116106513
+toNumeric__AwayTeam_Tottenham,0.006046791901378801
+toNumeric__AwayTeam_Watford,0.05370086034214028
+toNumeric__AwayTeam_West Brom,0.06404312589318395
+toNumeric__AwayTeam_West Ham,0.01700319553231555
+toNumeric__AwayTeam_Wigan,0.03359087703667685
+toNumeric__AwayTeam_Wolves,0.0
+toNumeric__HTR_A,-0.015908427293671756
+toNumeric__HTR_D,0.04800572578427931
+toNumeric__HTR_H,-0.036271482658465914
+toNumeric__Referee_A D'Urso,0.00022052003970096656
+toNumeric__Referee_A Marriner,0.030230315016024134
+toNumeric__Referee_A Taylor,0.0
+toNumeric__Referee_A Wiley,0.010126111154882989
+toNumeric__Referee_B Knight,0.0077458086496222656
+toNumeric__Referee_C Foy,-0.01796075550798293
+toNumeric__Referee_D Gallagher,-0.013495058991060516
+toNumeric__Referee_G Poll,-0.02773426122536743
+toNumeric__Referee_H Webb,0.010050321656336403
+toNumeric__Referee_I Williamson,0.0
+toNumeric__Referee_K Friend,0.0
+toNumeric__Referee_K Stroud,-0.006275646426123105
+toNumeric__Referee_L Mason,0.009325155826059639
+toNumeric__Referee_L Probert,0.020572969994056445
+toNumeric__Referee_M Atkinson,0.010854513010085443
+toNumeric__Referee_M Clattenburg,-0.0450569826825995
+toNumeric__Referee_M Dean,0.003563241405672657
+toNumeric__Referee_M Halsey,-0.03836438128708486
+toNumeric__Referee_M Jones,0.013292708800077602
+toNumeric__Referee_M Messias,-0.0069069185251987575
+toNumeric__Referee_M Riley,0.06536156329239678
+toNumeric__Referee_N Barry,0.00948669337346597
+toNumeric__Referee_P Crossley,0.0
+toNumeric__Referee_P Dowd,0.03424925433121995
+toNumeric__Referee_P Walton,-0.024381084039581835
+toNumeric__Referee_R Beeby,-0.006868482801115269
+toNumeric__Referee_R Styles,-0.00017801435315462077
+toNumeric__Referee_S Attwell,0.0
+toNumeric__Referee_S Bennett,-0.03628876540258413
+toNumeric__Referee_S Dunn,0.024767956828432025
+toNumeric__Referee_S Tanner,0.025132430988708317
+toNumeric__Referee_U Rennie,-0.016397265255185478
+remainder__Date,-0.01991903497478259
+remainder__HTHG,0.7726040260812121
+remainder__HTAG,-0.5011493118591449
+remainder__HS,-0.05209427264939945
+remainder__AS,0.02692760899733354
+remainder__HST,0.2824602367272594
+remainder__AST,-0.32688293429499987
+remainder__HF,-0.0528681270648369
+remainder__AF,-0.014514112829254744
+remainder__HC,-0.16440328299229856
+remainder__AC,0.07344357858292702
+remainder__HY,-0.0010706619063341472
+remainder__AY,0.02902940352348793
+remainder__HR,-0.10792111644906645
+remainder__AR,0.10564216493287504
+remainder__Season,0.0179407429271925
+
+Predictions for season 18
+Mean squared error: 1.362128
+toNumeric__HomeTeam_Arsenal,0.1052926408636381
+toNumeric__HomeTeam_Aston Villa,0.012721788448097016
+toNumeric__HomeTeam_Birmingham,-0.020009637408570313
+toNumeric__HomeTeam_Blackburn,0.02141877651775559
+toNumeric__HomeTeam_Blackpool,0.0
+toNumeric__HomeTeam_Bolton,-0.03237679200617549
+toNumeric__HomeTeam_Burnley,0.03478123877175676
+toNumeric__HomeTeam_Charlton,0.013969985040986899
+toNumeric__HomeTeam_Chelsea,0.08062739055103663
+toNumeric__HomeTeam_Derby,-0.08456758915325224
+toNumeric__HomeTeam_Everton,-0.0054063720860071385
+toNumeric__HomeTeam_Fulham,-0.036503405974862346
+toNumeric__HomeTeam_Hull,-0.08299476231680103
+toNumeric__HomeTeam_Liverpool,0.08803964702677547
+toNumeric__HomeTeam_Man City,-0.0461349679803007
+toNumeric__HomeTeam_Man United,0.1417393005796015
+toNumeric__HomeTeam_Middlesbrough,-0.022454842358875737
+toNumeric__HomeTeam_Newcastle,-0.022877640949090505
+toNumeric__HomeTeam_Portsmouth,0.008746431045405956
+toNumeric__HomeTeam_Reading,0.005005942730718971
+toNumeric__HomeTeam_Sheffield United,-0.01851358474739584
+toNumeric__HomeTeam_Stoke,0.011378585495371851
+toNumeric__HomeTeam_Sunderland,-0.050953346994582205
+toNumeric__HomeTeam_Tottenham,-0.015577763927840493
+toNumeric__HomeTeam_Watford,-0.0427208314659282
+toNumeric__HomeTeam_West Brom,0.0
+toNumeric__HomeTeam_West Ham,-0.07945870504904917
+toNumeric__HomeTeam_Wigan,-0.04392275415122526
+toNumeric__HomeTeam_Wolves,-0.027460656533008887
+toNumeric__AwayTeam_Arsenal,-0.04069135424210657
+toNumeric__AwayTeam_Aston Villa,-0.03199883292526806
+toNumeric__AwayTeam_Birmingham,0.03499808219555334
+toNumeric__AwayTeam_Blackburn,0.03240026033187959
+toNumeric__AwayTeam_Blackpool,0.0
+toNumeric__AwayTeam_Bolton,0.03809151042780812
+toNumeric__AwayTeam_Burnley,0.05955519733123538
+toNumeric__AwayTeam_Charlton,0.04609383665508915
+toNumeric__AwayTeam_Chelsea,-0.12828417269791004
+toNumeric__AwayTeam_Derby,0.08801142899271497
+toNumeric__AwayTeam_Everton,-0.04672643009561739
+toNumeric__AwayTeam_Fulham,0.015631122283089383
+toNumeric__AwayTeam_Hull,0.0032729707685916765
+toNumeric__AwayTeam_Liverpool,-0.06462129960092966
+toNumeric__AwayTeam_Man City,-0.02810855057146
+toNumeric__AwayTeam_Man United,-0.12269680482818757
+toNumeric__AwayTeam_Middlesbrough,0.05625505499259731
+toNumeric__AwayTeam_Newcastle,0.052663680843387795
+toNumeric__AwayTeam_Portsmouth,0.035212688972727335
+toNumeric__AwayTeam_Reading,-0.017721143589263022
+toNumeric__AwayTeam_Sheffield United,0.03395799990370563
+toNumeric__AwayTeam_Stoke,-0.0834550753251051
+toNumeric__AwayTeam_Sunderland,0.07234535508379736
+toNumeric__AwayTeam_Tottenham,0.008289790409214959
+toNumeric__AwayTeam_Watford,0.04381380177001404
+toNumeric__AwayTeam_West Brom,0.024550284294910796
+toNumeric__AwayTeam_West Ham,0.023150984592057
+toNumeric__AwayTeam_Wigan,0.05170811501758976
+toNumeric__AwayTeam_Wolves,-0.03768932744529252
+toNumeric__HTR_A,0.021985534068161172
+toNumeric__HTR_D,0.018463507980854388
+toNumeric__HTR_H,-0.037576681495050224
+toNumeric__Referee_A D'Urso,-0.02369082866776806
+toNumeric__Referee_A Marriner,0.03135386944952501
+toNumeric__Referee_A Taylor,0.0
+toNumeric__Referee_A Wiley,0.02627732471537314
+toNumeric__Referee_B Knight,0.03766754707467612
+toNumeric__Referee_C Foy,-0.03025072275044849
+toNumeric__Referee_D Gallagher,-0.00588392939945237
+toNumeric__Referee_G Poll,-0.02610144682910942
+toNumeric__Referee_H Webb,0.009355889225375336
+toNumeric__Referee_I Williamson,-0.011698924715933406
+toNumeric__Referee_J Moss,0.0
+toNumeric__Referee_K Friend,-0.018227789474849487
+toNumeric__Referee_K Stroud,0.004900118051040181
+toNumeric__Referee_L Mason,0.016934765497715887
+toNumeric__Referee_L Probert,0.04095356218017798
+toNumeric__Referee_M Atkinson,-0.02541998912574428
+toNumeric__Referee_M Clattenburg,0.01056838053313669
+toNumeric__Referee_M Dean,-0.03367488010761832
+toNumeric__Referee_M Halsey,-0.010853519581303317
+toNumeric__Referee_M Jones,-0.008660842993407414
+toNumeric__Referee_M Oliver,0.0
+toNumeric__Referee_M Riley,0.04568198782302346
+toNumeric__Referee_N Swarbrick,0.0
+toNumeric__Referee_P Dowd,-0.006417129819659806
+toNumeric__Referee_P Walton,-0.0341198663758604
+toNumeric__Referee_R Beeby,-0.03294564571896785
+toNumeric__Referee_R Styles,-0.02884717413906035
+toNumeric__Referee_S Attwell,0.008722198877208598
+toNumeric__Referee_S Bennett,-0.01127367024199799
+toNumeric__Referee_S Tanner,0.018361373182443685
+toNumeric__Referee_U Rennie,0.06644418165048904
+remainder__Date,0.018415366011193868
+remainder__HTHG,0.8120433254984416
+remainder__HTAG,-0.5606950047698032
+remainder__HS,-0.20219402114938845
+remainder__AS,0.044605413268929084
+remainder__HST,0.3966705595434483
+remainder__AST,-0.2948039315227895
+remainder__HF,-0.07622714168298828
+remainder__AF,0.02967568041495028
+remainder__HC,-0.13303739974199758
+remainder__AC,0.09643928318657657
+remainder__HY,-0.0630186281954348
+remainder__AY,0.03448170282825469
+remainder__HR,-0.0778908334723667
+remainder__AR,0.10538204861105172
+remainder__Season,0.06049652145350137
+
+Predictions for season 19
+Mean squared error: 1.351445
+toNumeric__HomeTeam_Arsenal,0.1006182234177399
+toNumeric__HomeTeam_Aston Villa,0.003139201645539158
+toNumeric__HomeTeam_Birmingham,-0.01612356295662476
+toNumeric__HomeTeam_Blackburn,0.0061350722297847105
+toNumeric__HomeTeam_Blackpool,-0.05296488350632789
+toNumeric__HomeTeam_Bolton,-0.011228332851038525
+toNumeric__HomeTeam_Burnley,0.035206117772644596
+toNumeric__HomeTeam_Charlton,0.010661160881209941
+toNumeric__HomeTeam_Chelsea,0.05195301656374646
+toNumeric__HomeTeam_Derby,-0.0824714353288103
+toNumeric__HomeTeam_Everton,0.019825493482830026
+toNumeric__HomeTeam_Fulham,-0.005348004529141304
+toNumeric__HomeTeam_Hull,-0.05611656844969737
+toNumeric__HomeTeam_Liverpool,0.07663114269248178
+toNumeric__HomeTeam_Man City,-0.007089039675949538
+toNumeric__HomeTeam_Man United,0.10247448994571928
+toNumeric__HomeTeam_Middlesbrough,-0.03430969876596279
+toNumeric__HomeTeam_Newcastle,-0.025858087278076924
+toNumeric__HomeTeam_Norwich,0.0
+toNumeric__HomeTeam_Portsmouth,0.025393758859199478
+toNumeric__HomeTeam_QPR,0.0
+toNumeric__HomeTeam_Reading,0.0018973706488819575
+toNumeric__HomeTeam_Sheffield United,-0.032210075256586146
+toNumeric__HomeTeam_Stoke,0.016678705495097645
+toNumeric__HomeTeam_Sunderland,-0.02594839584744424
+toNumeric__HomeTeam_Swansea,0.0
+toNumeric__HomeTeam_Tottenham,-0.025532646204517673
+toNumeric__HomeTeam_Watford,-0.02501293402735394
+toNumeric__HomeTeam_West Brom,-0.0076035541323615785
+toNumeric__HomeTeam_West Ham,-0.07403238077275176
+toNumeric__HomeTeam_Wigan,-0.061406280654073664
+toNumeric__HomeTeam_Wolves,-0.030007562115261788
+toNumeric__AwayTeam_Arsenal,-0.060676643138409536
+toNumeric__AwayTeam_Aston Villa,-0.016527306653547735
+toNumeric__AwayTeam_Birmingham,0.014544657780954484
+toNumeric__AwayTeam_Blackburn,0.06896520184754906
+toNumeric__AwayTeam_Blackpool,0.04376881043537528
+toNumeric__AwayTeam_Bolton,0.05499191717165419
+toNumeric__AwayTeam_Burnley,0.05351441203233476
+toNumeric__AwayTeam_Charlton,0.05808382894716946
+toNumeric__AwayTeam_Chelsea,-0.10789335903875558
+toNumeric__AwayTeam_Derby,0.07920904837999254
+toNumeric__AwayTeam_Everton,-0.042592904078479155
+toNumeric__AwayTeam_Fulham,0.002304519111540726
+toNumeric__AwayTeam_Hull,-0.00025439891407086357
+toNumeric__AwayTeam_Liverpool,-0.053402929357216355
+toNumeric__AwayTeam_Man City,-0.05641878265774525
+toNumeric__AwayTeam_Man United,-0.11112206280543213
+toNumeric__AwayTeam_Middlesbrough,0.047351066194706304
+toNumeric__AwayTeam_Newcastle,0.032185699758016995
+toNumeric__AwayTeam_Norwich,0.0
+toNumeric__AwayTeam_Portsmouth,0.011935580894414155
+toNumeric__AwayTeam_QPR,0.0
+toNumeric__AwayTeam_Reading,-0.02250280174791741
+toNumeric__AwayTeam_Sheffield United,0.041781476464859635
+toNumeric__AwayTeam_Stoke,-0.055862017130079655
+toNumeric__AwayTeam_Sunderland,0.03592293311757877
+toNumeric__AwayTeam_Swansea,0.0
+toNumeric__AwayTeam_Tottenham,0.015047029334628204
+toNumeric__AwayTeam_Watford,0.029680703528652597
+toNumeric__AwayTeam_West Brom,0.004622343624630321
+toNumeric__AwayTeam_West Ham,0.04027289208901563
+toNumeric__AwayTeam_Wigan,0.061875521832898794
+toNumeric__AwayTeam_Wolves,0.0006447814068346602
+toNumeric__HTR_A,0.022825772725484278
+toNumeric__HTR_D,0.026808640874501022
+toNumeric__HTR_H,-0.04715081200465132
+toNumeric__Referee_A Marriner,0.011175721103617975
+toNumeric__Referee_A Taylor,-0.008767039716454761
+toNumeric__Referee_A Wiley,0.0062679790851912776
+toNumeric__Referee_C Foy,-0.035983357010131445
+toNumeric__Referee_D Gallagher,-0.005184536846346788
+toNumeric__Referee_G Poll,-0.0442104063281491
+toNumeric__Referee_H Webb,0.023452763958882294
+toNumeric__Referee_J Moss,-0.013382134732390583
+toNumeric__Referee_K Friend,0.006425066620078024
+toNumeric__Referee_K Stroud,0.008994837571318026
+toNumeric__Referee_L Mason,0.024240659418516552
+toNumeric__Referee_L Probert,0.07707027559432922
+toNumeric__Referee_M Atkinson,-0.005821983780993967
+toNumeric__Referee_M Clattenburg,0.015384504237447638
+toNumeric__Referee_M Dean,-0.00820802568186807
+toNumeric__Referee_M Halsey,-0.02321087640298447
+toNumeric__Referee_M Jones,-0.025694700859910657
+toNumeric__Referee_M Oliver,0.013408220405954907
+toNumeric__Referee_M Riley,0.04064408341815917
+toNumeric__Referee_N Swarbrick,0.0
+toNumeric__Referee_P Dowd,-0.007639447224086493
+toNumeric__Referee_P Walton,-0.04655132977754328
+toNumeric__Referee_R Styles,-0.02011162940016331
+toNumeric__Referee_S Attwell,-0.02142987962459661
+toNumeric__Referee_S Bennett,-0.005055341261537949
+toNumeric__Referee_S Tanner,0.020233764301117396
+toNumeric__Referee_U Rennie,0.040734658046436056
+remainder__Date,-0.002393375304018841
+remainder__HTHG,0.8458081274959159
+remainder__HTAG,-0.574959632529604
+remainder__HS,-0.15371915900617264
+remainder__AS,-0.026075097630982258
+remainder__HST,0.34228158828410404
+remainder__AST,-0.21540933774286192
+remainder__HF,-0.08961839231523006
+remainder__AF,0.013007216762332852
+remainder__HC,-0.1149608726738926
+remainder__AC,0.09154933930324843
+remainder__HY,-0.0270528651861619
+remainder__AY,0.019399205605950126
+remainder__HR,-0.08207253662770098
+remainder__AR,0.10671345224999673
+remainder__Season,0.006856607756592581
+
+Predictions for season 20
+Mean squared error: 1.445870
+toNumeric__HomeTeam_Arsenal,0.08231025565977446
+toNumeric__HomeTeam_Aston Villa,0.02288892712240609
+toNumeric__HomeTeam_Birmingham,-0.0007530378684579286
+toNumeric__HomeTeam_Blackburn,-0.029072921629408444
+toNumeric__HomeTeam_Blackpool,-0.014806337299790973
+toNumeric__HomeTeam_Bolton,-0.04303823006470375
+toNumeric__HomeTeam_Burnley,-0.014739405060554711
+toNumeric__HomeTeam_Chelsea,0.050161127949713
+toNumeric__HomeTeam_Derby,-0.09404540986126997
+toNumeric__HomeTeam_Everton,0.026015865288658957
+toNumeric__HomeTeam_Fulham,0.015082744915534407
+toNumeric__HomeTeam_Hull,-0.058518362676830034
+toNumeric__HomeTeam_Liverpool,0.040267177110025
+toNumeric__HomeTeam_Man City,0.07057941470528517
+toNumeric__HomeTeam_Man United,0.12690023093702313
+toNumeric__HomeTeam_Middlesbrough,-0.03028270560954019
+toNumeric__HomeTeam_Newcastle,-0.043766208507965976
+toNumeric__HomeTeam_Norwich,-0.020958393984156665
+toNumeric__HomeTeam_Portsmouth,-0.008916590537908498
+toNumeric__HomeTeam_QPR,0.0
+toNumeric__HomeTeam_Reading,-0.04257502934332069
+toNumeric__HomeTeam_Southampton,0.0
+toNumeric__HomeTeam_Stoke,0.02993035291112278
+toNumeric__HomeTeam_Sunderland,-0.030165331728912725
+toNumeric__HomeTeam_Swansea,0.007537584508257478
+toNumeric__HomeTeam_Tottenham,-0.0218504186913131
+toNumeric__HomeTeam_West Brom,-0.044183492591620355
+toNumeric__HomeTeam_West Ham,-0.027955686758453058
+toNumeric__HomeTeam_Wigan,-0.06300443779701176
+toNumeric__HomeTeam_Wolves,-0.0367043358074044
+toNumeric__AwayTeam_Arsenal,-0.07246051453619945
+toNumeric__AwayTeam_Aston Villa,-0.025373234680463708
+toNumeric__AwayTeam_Birmingham,0.022523679056944856
+toNumeric__AwayTeam_Blackburn,0.07480390103336365
+toNumeric__AwayTeam_Blackpool,0.005043696301696432
+toNumeric__AwayTeam_Bolton,0.07413630196332777
+toNumeric__AwayTeam_Burnley,0.0457638274669262
+toNumeric__AwayTeam_Chelsea,-0.11010741581194305
+toNumeric__AwayTeam_Derby,0.08359622492005458
+toNumeric__AwayTeam_Everton,-0.04594275252623059
+toNumeric__AwayTeam_Fulham,0.03725752380482372
+toNumeric__AwayTeam_Hull,0.004426132915566816
+toNumeric__AwayTeam_Liverpool,-0.029373314113501414
+toNumeric__AwayTeam_Man City,0.0006754165992634009
+toNumeric__AwayTeam_Man United,-0.09432239942761034
+toNumeric__AwayTeam_Middlesbrough,0.06357332940041038
+toNumeric__AwayTeam_Newcastle,0.008892493671680768
+toNumeric__AwayTeam_Norwich,-0.015479012478349707
+toNumeric__AwayTeam_Portsmouth,-0.015163385281146358
+toNumeric__AwayTeam_QPR,-0.0007922840159446665
+toNumeric__AwayTeam_Reading,-0.003992975923831299
+toNumeric__AwayTeam_Southampton,0.0
+toNumeric__AwayTeam_Stoke,-0.021797130109830753
+toNumeric__AwayTeam_Sunderland,0.02601744782766774
+toNumeric__AwayTeam_Swansea,0.028674511792786017
+toNumeric__AwayTeam_Tottenham,-0.016423836836113592
+toNumeric__AwayTeam_West Brom,-0.0013508270684876554
+toNumeric__AwayTeam_West Ham,0.043550404718369407
+toNumeric__AwayTeam_Wigan,0.07253394773444016
+toNumeric__AwayTeam_Wolves,-0.041761225901590926
+toNumeric__HTR_A,-0.03862430434988057
+toNumeric__HTR_D,-0.0012662529855849702
+toNumeric__HTR_H,0.03508179869919137
+toNumeric__Referee_A Marriner,-0.005338094154843764
+toNumeric__Referee_A Taylor,0.0010281179659479278
+toNumeric__Referee_A Wiley,0.04199721699283569
+toNumeric__Referee_C Foy,-0.06054885634819013
+toNumeric__Referee_C Pawson,0.0
+toNumeric__Referee_H Webb,0.010910420685504074
+toNumeric__Referee_J Moss,-0.005816709767533013
+toNumeric__Referee_K Friend,0.05009760953945608
+toNumeric__Referee_K Stroud,-0.01907839337428152
+toNumeric__Referee_L Mason,-0.00566380071529915
+toNumeric__Referee_L Probert,0.06446094273959752
+toNumeric__Referee_M Atkinson,-0.005787610959815198
+toNumeric__Referee_M Clattenburg,-0.007738604117402792
+toNumeric__Referee_M Dean,-0.01873879482200913
+toNumeric__Referee_M Halsey,-0.06494892023934201
+toNumeric__Referee_M Jones,-0.010951279706719053
+toNumeric__Referee_M Oliver,0.001994869698581536
+toNumeric__Referee_M Riley,0.012972176970218394
+toNumeric__Referee_N Swarbrick,-0.02772113965771089
+toNumeric__Referee_P Dowd,0.034293133511996476
+toNumeric__Referee_P Walton,-0.0176820725489939
+toNumeric__Referee_R East,0.0
+toNumeric__Referee_R Madley,0.0
+toNumeric__Referee_R Styles,-0.010095679741694175
+toNumeric__Referee_S Attwell,0.021887953275924632
+toNumeric__Referee_S Bennett,0.016036756291317067
+toNumeric__Referee_S Tanner,0.00504294547559947
+toNumeric__Referee_U Rennie,0.0056793874618106255
+remainder__Date,-0.05704617401905443
+remainder__HTHG,0.7184085034697536
+remainder__HTAG,-0.5436945624370456
+remainder__HS,-0.056352146175846385
+remainder__AS,-0.03441340763309192
+remainder__HST,0.3632936569287618
+remainder__AST,-0.27626414178762865
+remainder__HF,-0.03745576510520596
+remainder__AF,-0.010974784566043255
+remainder__HC,-0.1338762089734463
+remainder__AC,0.0861781388692499
+remainder__HY,-0.08040439059433191
+remainder__AY,0.040714009104240084
+remainder__HR,-0.12796567384402457
+remainder__AR,0.1528045444461139
+remainder__Season,-0.014235543042091958
+
+Predictions for season 21
+Mean squared error: 1.483135
+toNumeric__HomeTeam_Arsenal,0.06792345819475631
+toNumeric__HomeTeam_Aston Villa,0.004136488916452963
+toNumeric__HomeTeam_Birmingham,-0.02053356419209673
+toNumeric__HomeTeam_Blackburn,-0.02406349157323262
+toNumeric__HomeTeam_Blackpool,-0.026017009306058103
+toNumeric__HomeTeam_Bolton,-0.048639024401851305
+toNumeric__HomeTeam_Burnley,-0.022482679316293552
+toNumeric__HomeTeam_Cardiff,0.0
+toNumeric__HomeTeam_Chelsea,0.0518064326251263
+toNumeric__HomeTeam_Crystal Palace,0.0
+toNumeric__HomeTeam_Everton,0.01384999792182412
+toNumeric__HomeTeam_Fulham,-0.012491142176787373
+toNumeric__HomeTeam_Hull,-0.064297933170393
+toNumeric__HomeTeam_Liverpool,0.03700044696765514
+toNumeric__HomeTeam_Man City,0.0683477232123989
+toNumeric__HomeTeam_Man United,0.1354958951780849
+toNumeric__HomeTeam_Middlesbrough,-0.018553532966467584
+toNumeric__HomeTeam_Newcastle,-0.0016013938515098136
+toNumeric__HomeTeam_Norwich,-0.008983040183506263
+toNumeric__HomeTeam_Portsmouth,-0.030475179044399114
+toNumeric__HomeTeam_QPR,0.00016104191127763734
+toNumeric__HomeTeam_Reading,0.021165613016805196
+toNumeric__HomeTeam_Southampton,-0.042895623834963814
+toNumeric__HomeTeam_Stoke,0.01738856986409723
+toNumeric__HomeTeam_Sunderland,-0.03003070791306739
+toNumeric__HomeTeam_Swansea,0.016760226667897227
+toNumeric__HomeTeam_Tottenham,-0.024322607870844025
+toNumeric__HomeTeam_West Brom,0.028633682103493707
+toNumeric__HomeTeam_West Ham,-0.041258926350991154
+toNumeric__HomeTeam_Wigan,-0.10628162514688211
+toNumeric__HomeTeam_Wolves,-0.04535551762735868
+toNumeric__AwayTeam_Arsenal,-0.04262109318074553
+toNumeric__AwayTeam_Aston Villa,0.0016487620344135534
+toNumeric__AwayTeam_Birmingham,-0.0031200784816570737
+toNumeric__AwayTeam_Blackburn,0.09155078613623946
+toNumeric__AwayTeam_Blackpool,0.01863727434133411
+toNumeric__AwayTeam_Bolton,0.05862197718048562
+toNumeric__AwayTeam_Burnley,0.05918421919527039
+toNumeric__AwayTeam_Cardiff,0.0
+toNumeric__AwayTeam_Chelsea,-0.08779734509539339
+toNumeric__AwayTeam_Crystal Palace,0.0
+toNumeric__AwayTeam_Everton,-0.03523777482254642
+toNumeric__AwayTeam_Fulham,0.0036662475399174
+toNumeric__AwayTeam_Hull,0.012560552825335858
+toNumeric__AwayTeam_Liverpool,-0.05103332623250034
+toNumeric__AwayTeam_Man City,0.0094095189048497
+toNumeric__AwayTeam_Man United,-0.09833624009717645
+toNumeric__AwayTeam_Middlesbrough,0.07077041230485503
+toNumeric__AwayTeam_Newcastle,0.018382083211958056
+toNumeric__AwayTeam_Norwich,0.019942993537882092
+toNumeric__AwayTeam_Portsmouth,0.0014090258535137679
+toNumeric__AwayTeam_QPR,-0.010323998607145501
+toNumeric__AwayTeam_Reading,0.003553570803042083
+toNumeric__AwayTeam_Southampton,0.016112891994129314
+toNumeric__AwayTeam_Stoke,7.583497720442534e-05
+toNumeric__AwayTeam_Sunderland,0.02386707930152593
+toNumeric__AwayTeam_Swansea,-0.019077118153140615
+toNumeric__AwayTeam_Tottenham,-0.029789859042339273
+toNumeric__AwayTeam_West Brom,-0.008852937607953137
+toNumeric__AwayTeam_West Ham,0.054981867299807474
+toNumeric__AwayTeam_Wigan,0.06000719644092439
+toNumeric__AwayTeam_Wolves,-0.03143181082203117
+toNumeric__HTR_A,-0.025769317949519255
+toNumeric__HTR_D,0.002468230764621049
+toNumeric__HTR_H,0.020368579394680786
+toNumeric__Referee_A Marriner,-0.009366911273871903
+toNumeric__Referee_A Taylor,-0.013984398991389368
+toNumeric__Referee_A Wiley,0.03928447828519821
+toNumeric__Referee_C Foy,-0.0615408006048217
+toNumeric__Referee_C Pawson,0.0
+toNumeric__Referee_H Webb,0.03404693851807605
+toNumeric__Referee_J Moss,-0.009771815433578523
+toNumeric__Referee_K Friend,0.04039230791478432
+toNumeric__Referee_K Stroud,0.0
+toNumeric__Referee_L Mason,-0.00801620133112535
+toNumeric__Referee_L Probert,0.062011998773433635
+toNumeric__Referee_M Atkinson,-0.015517755686674795
+toNumeric__Referee_M Clattenburg,-0.008298655870109445
+toNumeric__Referee_M Dean,-0.02500336986141727
+toNumeric__Referee_M Halsey,-0.06951284111014189
+toNumeric__Referee_M Jones,-0.04699493061752558
+toNumeric__Referee_M Oliver,0.05312925651754141
+toNumeric__Referee_M Riley,-0.013409334446081445
+toNumeric__Referee_N Swarbrick,0.0011686353000716077
+toNumeric__Referee_P Dowd,0.05251616253940772
+toNumeric__Referee_P Walton,-0.00523056929819421
+toNumeric__Referee_R East,-0.006592141162946042
+toNumeric__Referee_R Madley,0.0
+toNumeric__Referee_R Styles,-0.0046379806577291904
+toNumeric__Referee_S Attwell,0.03286905712858368
+toNumeric__Referee_S Bennett,-0.00796851722743308
+toNumeric__Referee_S Tanner,-0.003947676047628246
+remainder__Date,-0.06936026831666875
+remainder__HTHG,0.7092026760129811
+remainder__HTAG,-0.5669845761726449
+remainder__HS,-0.07465188879052254
+remainder__AS,-0.04926222199761751
+remainder__HST,0.35897702286756694
+remainder__AST,-0.26250880560053036
+remainder__HF,-0.006114356933541343
+remainder__AF,-0.014296558322396069
+remainder__HC,-0.09928254150882587
+remainder__AC,0.08055039899727298
+remainder__HY,-0.10646694988686342
+remainder__AY,0.05278191225525536
+remainder__HR,-0.1527302566196691
+remainder__AR,0.16263274236361477
+remainder__Season,-0.028282039979619533
+
+Predictions for season 22
+Mean squared error: 1.186887
+toNumeric__HomeTeam_Arsenal,0.10938053388501859
+toNumeric__HomeTeam_Aston Villa,-0.013693994844505064
+toNumeric__HomeTeam_Birmingham,-0.01590558163007616
+toNumeric__HomeTeam_Blackburn,-0.03254672238427936
+toNumeric__HomeTeam_Blackpool,-0.02702803417625055
+toNumeric__HomeTeam_Bolton,-0.051905790758301484
+toNumeric__HomeTeam_Burnley,-0.048657355462220275
+toNumeric__HomeTeam_Cardiff,-0.032461649006585325
+toNumeric__HomeTeam_Chelsea,0.07549883570079297
+toNumeric__HomeTeam_Crystal Palace,-0.05374187204591996
+toNumeric__HomeTeam_Everton,0.030341634903399473
+toNumeric__HomeTeam_Fulham,-0.02108915294240077
+toNumeric__HomeTeam_Hull,-0.05820229436836355
+toNumeric__HomeTeam_Leicester,0.0
+toNumeric__HomeTeam_Liverpool,0.004885122254758345
+toNumeric__HomeTeam_Man City,0.10848997545044614
+toNumeric__HomeTeam_Man United,0.08759559645588993
+toNumeric__HomeTeam_Newcastle,-0.024332360648323004
+toNumeric__HomeTeam_Norwich,-0.0019017819170952244
+toNumeric__HomeTeam_Portsmouth,-0.05960518042596474
+toNumeric__HomeTeam_QPR,0.0
+toNumeric__HomeTeam_Reading,0.03519872769747323
+toNumeric__HomeTeam_Southampton,-0.024073013691704226
+toNumeric__HomeTeam_Stoke,0.038714637381476125
+toNumeric__HomeTeam_Sunderland,-0.026270094680109546
+toNumeric__HomeTeam_Swansea,0.041796850473704406
+toNumeric__HomeTeam_Tottenham,0.009864306804607037
+toNumeric__HomeTeam_West Brom,-0.00491390045555562
+toNumeric__HomeTeam_West Ham,-0.061699134423584656
+toNumeric__HomeTeam_Wigan,-0.10540990495170033
+toNumeric__HomeTeam_Wolves,-0.05713893468949305
+toNumeric__AwayTeam_Arsenal,-0.045596972832491256
+toNumeric__AwayTeam_Aston Villa,0.02495136720309865
+toNumeric__AwayTeam_Birmingham,-0.011419652467638208
+toNumeric__AwayTeam_Blackburn,0.08289615481242074
+toNumeric__AwayTeam_Blackpool,0.00559852245589143
+toNumeric__AwayTeam_Bolton,0.06807450355298938
+toNumeric__AwayTeam_Burnley,0.0390241480880712
+toNumeric__AwayTeam_Cardiff,0.05090256995692077
+toNumeric__AwayTeam_Chelsea,-0.07432069869602215
+toNumeric__AwayTeam_Crystal Palace,0.018407107148199042
+toNumeric__AwayTeam_Everton,-0.01719878832170485
+toNumeric__AwayTeam_Fulham,0.024037366081747336
+toNumeric__AwayTeam_Hull,0.031096032528633022
+toNumeric__AwayTeam_Leicester,0.0
+toNumeric__AwayTeam_Liverpool,-0.05430618372545748
+toNumeric__AwayTeam_Man City,-0.03875149794483712
+toNumeric__AwayTeam_Man United,-0.11920449075515072
+toNumeric__AwayTeam_Newcastle,0.05153519706460463
+toNumeric__AwayTeam_Norwich,0.05472000497504914
+toNumeric__AwayTeam_Portsmouth,0.0
+toNumeric__AwayTeam_QPR,0.0
+toNumeric__AwayTeam_Reading,0.004639703204380785
+toNumeric__AwayTeam_Southampton,0.011105740844647771
+toNumeric__AwayTeam_Stoke,0.021525944456419255
+toNumeric__AwayTeam_Sunderland,0.03717562255908635
+toNumeric__AwayTeam_Swansea,0.0339846165808988
+toNumeric__AwayTeam_Tottenham,-0.06218888206234513
+toNumeric__AwayTeam_West Brom,-0.05600796381877182
+toNumeric__AwayTeam_West Ham,0.029340272504537523
+toNumeric__AwayTeam_Wigan,0.060321333186251935
+toNumeric__AwayTeam_Wolves,-0.043992219886393125
+toNumeric__HTR_A,-0.04255235479318731
+toNumeric__HTR_D,0.001631499139166659
+toNumeric__HTR_H,0.03646145047474392
+toNumeric__Referee_A Marriner,-0.011674190469292745
+toNumeric__Referee_A Taylor,-0.03294044551603614
+toNumeric__Referee_A Wiley,0.02901730731605781
+toNumeric__Referee_C Foy,-0.019229778112765494
+toNumeric__Referee_C Pawson,0.01717771352836706
+toNumeric__Referee_G Scott,0.0
+toNumeric__Referee_H Webb,0.059363173408704506
+toNumeric__Referee_J Moss,-0.012507822492583864
+toNumeric__Referee_K Friend,0.019195764561674156
+toNumeric__Referee_K Stroud,0.0
+toNumeric__Referee_L Mason,-0.030312476329067084
+toNumeric__Referee_L Probert,0.04550048666985207
+toNumeric__Referee_M Atkinson,-0.02213563864126289
+toNumeric__Referee_M Clattenburg,-0.009355145817883659
+toNumeric__Referee_M Dean,-0.018544804366864676
+toNumeric__Referee_M Halsey,-0.034997214907543706
+toNumeric__Referee_M Jones,-0.022710693588172348
+toNumeric__Referee_M Oliver,0.0444968208185223
+toNumeric__Referee_N Swarbrick,-0.009670881899210615
+toNumeric__Referee_P Dowd,-0.0011605240073881973
+toNumeric__Referee_P Tierney,0.0
+toNumeric__Referee_P Walton,-0.009141199282526824
+toNumeric__Referee_R East,0.0
+toNumeric__Referee_R Madley,0.026601976775407765
+toNumeric__Referee_S Attwell,0.015915901396866494
+toNumeric__Referee_S Bennett,0.023956910740815962
+remainder__Date,-0.008779885333122822
+remainder__HTHG,0.7357412444286667
+remainder__HTAG,-0.5450425204297256
+remainder__HS,-0.04832733432351222
+remainder__AS,0.029722986345249947
+remainder__HST,0.3372699816888757
+remainder__AST,-0.3503742225412483
+remainder__HF,0.002826780617916025
+remainder__AF,-0.0012991001127945767
+remainder__HC,-0.042221701044949086
+remainder__AC,0.11205184845148897
+remainder__HY,-0.07649178440906815
+remainder__AY,0.01594089153949138
+remainder__HR,-0.16839355336434358
+remainder__AR,0.15650826264445258
+remainder__Season,-0.079552660289401
+
+Predictions for season 23
+Mean squared error: 1.182153
+toNumeric__HomeTeam_Arsenal,0.08360574840881818
+toNumeric__HomeTeam_Aston Villa,-0.060680740039313785
+toNumeric__HomeTeam_Birmingham,-0.007027497154765139
+toNumeric__HomeTeam_Blackburn,-0.010331570950337765
+toNumeric__HomeTeam_Blackpool,-0.030808426158186908
+toNumeric__HomeTeam_Bolton,-0.04538093507052754
+toNumeric__HomeTeam_Bournemouth,-0.0017468077595000997
+toNumeric__HomeTeam_Burnley,-0.011294710887791215
+toNumeric__HomeTeam_Cardiff,-0.04273129463283809
+toNumeric__HomeTeam_Chelsea,0.05838755672381685
+toNumeric__HomeTeam_Crystal Palace,-0.036138600937934084
+toNumeric__HomeTeam_Everton,0.01502013592808793
+toNumeric__HomeTeam_Fulham,-0.03967804994438362
+toNumeric__HomeTeam_Hull,-0.07501006837071589
+toNumeric__HomeTeam_Leicester,-0.01727973285566753
+toNumeric__HomeTeam_Liverpool,-0.01240465842253835
+toNumeric__HomeTeam_Man City,0.1390881823790313
+toNumeric__HomeTeam_Man United,0.0321285616702755
+toNumeric__HomeTeam_Newcastle,-0.0290390414382099
+toNumeric__HomeTeam_Norwich,0.004217182976339884
+toNumeric__HomeTeam_QPR,0.0005288216008595414
+toNumeric__HomeTeam_Reading,0.033040490866880656
+toNumeric__HomeTeam_Southampton,0.0043886846539337165
+toNumeric__HomeTeam_Stoke,0.05115670092023489
+toNumeric__HomeTeam_Sunderland,-0.041122232573071016
+toNumeric__HomeTeam_Swansea,0.042951151597500736
+toNumeric__HomeTeam_Tottenham,0.004605560535591913
+toNumeric__HomeTeam_Watford,0.0
+toNumeric__HomeTeam_West Brom,0.0005908602523925777
+toNumeric__HomeTeam_West Ham,-0.007572980659062756
+toNumeric__HomeTeam_Wigan,-0.10606467265294284
+toNumeric__HomeTeam_Wolves,-0.03034499570998439
+toNumeric__AwayTeam_Arsenal,-0.05058809701532757
+toNumeric__AwayTeam_Aston Villa,0.0475603616312437
+toNumeric__AwayTeam_Birmingham,0.023354266722851014
+toNumeric__AwayTeam_Blackburn,0.04577428745364598
+toNumeric__AwayTeam_Blackpool,0.01505502173674933
+toNumeric__AwayTeam_Bolton,0.054183202599209834
+toNumeric__AwayTeam_Bournemouth,0.0
+toNumeric__AwayTeam_Burnley,0.010676951546532809
+toNumeric__AwayTeam_Cardiff,0.04667092651711524
+toNumeric__AwayTeam_Chelsea,-0.07810804411052286
+toNumeric__AwayTeam_Crystal Palace,0.014723392308475525
+toNumeric__AwayTeam_Everton,-0.014149296141426293
+toNumeric__AwayTeam_Fulham,0.015046910842157146
+toNumeric__AwayTeam_Hull,-0.004562958214407109
+toNumeric__AwayTeam_Leicester,-0.016794307016689713
+toNumeric__AwayTeam_Liverpool,-0.034197477230901885
+toNumeric__AwayTeam_Man City,-0.037966213442347185
+toNumeric__AwayTeam_Man United,-0.10670020164857091
+toNumeric__AwayTeam_Newcastle,0.03926040513615897
+toNumeric__AwayTeam_Norwich,0.07407467661617506
+toNumeric__AwayTeam_QPR,0.0393551958655356
+toNumeric__AwayTeam_Reading,0.01843548282345986
+toNumeric__AwayTeam_Southampton,0.006202204830110802
+toNumeric__AwayTeam_Stoke,0.033806354554903884
+toNumeric__AwayTeam_Sunderland,0.031763687165260124
+toNumeric__AwayTeam_Swansea,0.014571869942749505
+toNumeric__AwayTeam_Tottenham,-0.03715704213180787
+toNumeric__AwayTeam_Watford,0.0
+toNumeric__AwayTeam_West Brom,-0.04865008295058959
+toNumeric__AwayTeam_West Ham,0.019217067850981095
+toNumeric__AwayTeam_Wigan,0.033097426395251595
+toNumeric__AwayTeam_Wolves,-0.0369919070995518
+toNumeric__HTR_A,-0.039509559587631804
+toNumeric__HTR_D,-0.019051648940381895
+toNumeric__HTR_H,0.055118036636763096
+toNumeric__Referee_A Marriner,5.103940919493066e-05
+toNumeric__Referee_A Taylor,-0.050822108102439756
+toNumeric__Referee_C Foy,-0.030853414834093207
+toNumeric__Referee_C Pawson,0.006054028517026855
+toNumeric__Referee_G Scott,0.0
+toNumeric__Referee_H Webb,0.07362261998739617
+toNumeric__Referee_J Moss,0.009755106382855594
+toNumeric__Referee_K Friend,0.0040418308435393735
+toNumeric__Referee_K Stroud,0.018203339121893015
+toNumeric__Referee_L Mason,-0.03647276850278014
+toNumeric__Referee_L Probert,0.05099120189532669
+toNumeric__Referee_M Atkinson,0.005210287180031914
+toNumeric__Referee_M Clattenburg,0.007544239074756751
+toNumeric__Referee_M Dean,-0.013815178004975892
+toNumeric__Referee_M Halsey,-0.023054826315760835
+toNumeric__Referee_M Jones,-0.0644824569447352
+toNumeric__Referee_M Oliver,0.05793301534673029
+toNumeric__Referee_N Swarbrick,-0.005301734664116625
+toNumeric__Referee_P Dowd,-0.006973203723098731
+toNumeric__Referee_P Tierney,0.0
+toNumeric__Referee_P Walton,-0.020355899228319596
+toNumeric__Referee_R East,0.004052180907860969
+toNumeric__Referee_R Madley,0.025075545509323227
+toNumeric__Referee_S Attwell,0.025826986892963977
+toNumeric__Referee_S Hooper,0.0
+remainder__Date,0.030338216307113603
+remainder__HTHG,0.7040998730698047
+remainder__HTAG,-0.5612719192279225
+remainder__HS,-0.06612582860807246
+remainder__AS,0.002140453234738873
+remainder__HST,0.373020912314929
+remainder__AST,-0.35467057122235957
+remainder__HF,0.002970044938539843
+remainder__AF,-0.008020908228676332
+remainder__HC,-0.0780797815834216
+remainder__AC,0.08528812649377573
+remainder__HY,-0.04309766715527979
+remainder__AY,0.014533777235683543
+remainder__HR,-0.15593197813505372
+remainder__AR,0.1459993947231647
+remainder__Season,-0.030090747991021637
+
+Predictions for season 24
+Mean squared error: 1.326313
+toNumeric__HomeTeam_Arsenal,0.08151116541348391
+toNumeric__HomeTeam_Aston Villa,-0.07218960565092321
+toNumeric__HomeTeam_Blackburn,-0.04941079629449158
+toNumeric__HomeTeam_Bolton,-0.041141254576055886
+toNumeric__HomeTeam_Bournemouth,-0.00040329846595965613
+toNumeric__HomeTeam_Burnley,-0.008876741480653316
+toNumeric__HomeTeam_Cardiff,-0.038410332657694224
+toNumeric__HomeTeam_Chelsea,0.03758022238679504
+toNumeric__HomeTeam_Crystal Palace,-0.07848136362821445
+toNumeric__HomeTeam_Everton,-0.0032632838237535156
+toNumeric__HomeTeam_Fulham,-0.04678966008981922
+toNumeric__HomeTeam_Hull,-0.06886436908124849
+toNumeric__HomeTeam_Leicester,0.0
+toNumeric__HomeTeam_Liverpool,0.0029958719310781215
+toNumeric__HomeTeam_Man City,0.14574441298046487
+toNumeric__HomeTeam_Man United,0.03609373385888326
+toNumeric__HomeTeam_Middlesbrough,0.0
+toNumeric__HomeTeam_Newcastle,-0.026313046926987105
+toNumeric__HomeTeam_Norwich,-0.012413628434756907
+toNumeric__HomeTeam_QPR,-0.004229752825390176
+toNumeric__HomeTeam_Reading,0.017128077660237828
+toNumeric__HomeTeam_Southampton,-0.0023548124481038712
+toNumeric__HomeTeam_Stoke,0.045260937547213054
+toNumeric__HomeTeam_Sunderland,0.011671490327413325
+toNumeric__HomeTeam_Swansea,0.043478110471353124
+toNumeric__HomeTeam_Tottenham,-0.027075193417374854
+toNumeric__HomeTeam_Watford,-0.003990455177938612
+toNumeric__HomeTeam_West Brom,0.00264795257901973
+toNumeric__HomeTeam_West Ham,0.007271442690003349
+toNumeric__HomeTeam_Wigan,-0.08106582124390514
+toNumeric__HomeTeam_Wolves,-0.0361744715407013
+toNumeric__AwayTeam_Arsenal,-0.07050125000102686
+toNumeric__AwayTeam_Aston Villa,0.05922297430152046
+toNumeric__AwayTeam_Blackburn,0.02881475816025214
+toNumeric__AwayTeam_Bolton,0.0376052789049649
+toNumeric__AwayTeam_Bournemouth,0.01248669774270117
+toNumeric__AwayTeam_Burnley,0.020373445311619776
+toNumeric__AwayTeam_Cardiff,0.05291475659247391
+toNumeric__AwayTeam_Chelsea,-0.0713999704917645
+toNumeric__AwayTeam_Crystal Palace,0.0030915305786995972
+toNumeric__AwayTeam_Everton,-0.015299316994742407
+toNumeric__AwayTeam_Fulham,0.020329936831255058
+toNumeric__AwayTeam_Hull,0.00196306537443669
+toNumeric__AwayTeam_Leicester,-0.03638582219996955
+toNumeric__AwayTeam_Liverpool,-0.02272874465609416
+toNumeric__AwayTeam_Man City,-0.056879766867490855
+toNumeric__AwayTeam_Man United,-0.0945546262210144
+toNumeric__AwayTeam_Middlesbrough,0.0
+toNumeric__AwayTeam_Newcastle,0.053908793641424535
+toNumeric__AwayTeam_Norwich,0.09519758277559065
+toNumeric__AwayTeam_QPR,0.041112473228850144
+toNumeric__AwayTeam_Reading,0.012697288741473689
+toNumeric__AwayTeam_Southampton,-0.004621558891690469
+toNumeric__AwayTeam_Stoke,0.07387333352594028
+toNumeric__AwayTeam_Sunderland,0.05154950589756552
+toNumeric__AwayTeam_Swansea,0.0212725733486962
+toNumeric__AwayTeam_Tottenham,-0.04737460596296861
+toNumeric__AwayTeam_Watford,0.006355390324413401
+toNumeric__AwayTeam_West Brom,-0.03843378173326817
+toNumeric__AwayTeam_West Ham,-0.029190321369803818
+toNumeric__AwayTeam_Wigan,0.026410268420189675
+toNumeric__AwayTeam_Wolves,-0.047088337686566284
+toNumeric__HTR_A,-0.033809998570672795
+toNumeric__HTR_D,-0.007502829500873831
+toNumeric__HTR_H,0.038191032385479606
+toNumeric__Referee_A Marriner,0.005769406265041965
+toNumeric__Referee_A Taylor,-0.0289228832647912
+toNumeric__Referee_C Foy,-0.01738475435005349
+toNumeric__Referee_C Kavanagh,0.0
+toNumeric__Referee_C Pawson,-0.004166586998893385
+toNumeric__Referee_G Scott,-0.013270031938148463
+toNumeric__Referee_H Webb,0.03771347415991219
+toNumeric__Referee_J Moss,0.006717189644123045
+toNumeric__Referee_K Friend,-0.0052527360255744115
+toNumeric__Referee_K Stroud,0.03547409451308028
+toNumeric__Referee_L Mason,-0.019760909995171105
+toNumeric__Referee_L Probert,0.029034668550482867
+toNumeric__Referee_M Atkinson,0.016084229881506817
+toNumeric__Referee_M Clattenburg,0.023628791668560467
+toNumeric__Referee_M Dean,-0.0069695514078489396
+toNumeric__Referee_M Halsey,-0.025487731964693228
+toNumeric__Referee_M Jones,-0.03591856988450681
+toNumeric__Referee_M Oliver,0.05226815934931345
+toNumeric__Referee_N Swarbrick,-0.021391786268291343
+toNumeric__Referee_P Dowd,-0.004566779490118966
+toNumeric__Referee_P Tierney,-0.015215832578330205
+toNumeric__Referee_P Walton,-0.011898181390661566
+toNumeric__Referee_R East,-0.016865461532394252
+toNumeric__Referee_R Madley,-0.0026696354732029803
+toNumeric__Referee_S Attwell,0.016085992516828185
+toNumeric__Referee_S Hooper,-0.0035341583062780675
+remainder__Date,0.027257409522197157
+remainder__HTHG,0.6501879166814661
+remainder__HTAG,-0.5536331138331667
+remainder__HS,-0.09003197507020627
+remainder__AS,-0.04256427288049364
+remainder__HST,0.4872380884698857
+remainder__AST,-0.3722900027280851
+remainder__HF,0.0036541786740950932
+remainder__AF,-0.02567079615269874
+remainder__HC,-0.14012885949225298
+remainder__AC,0.13353599113516226
+remainder__HY,-0.02698977065653907
+remainder__AY,0.008641254809685
+remainder__HR,-0.15058815006369902
+remainder__AR,0.12433392372946453
+remainder__Season,0.019145147525362116
+
+Predictions for season 25
+Mean squared error: 1.278910
+toNumeric__HomeTeam_Arsenal,0.12170963928744855
+toNumeric__HomeTeam_Aston Villa,-0.07750356068369613
+toNumeric__HomeTeam_Bournemouth,2.220446049250313e-16
+toNumeric__HomeTeam_Brighton,0.0
+toNumeric__HomeTeam_Burnley,-0.02535505991203535
+toNumeric__HomeTeam_Cardiff,0.006990337137452229
+toNumeric__HomeTeam_Chelsea,0.08480922370538468
+toNumeric__HomeTeam_Crystal Palace,-0.016655504566686297
+toNumeric__HomeTeam_Everton,0.01226520664037175
+toNumeric__HomeTeam_Fulham,-0.0875632956539023
+toNumeric__HomeTeam_Huddersfield,0.0
+toNumeric__HomeTeam_Hull,-0.051019270399516925
+toNumeric__HomeTeam_Leicester,0.0014971029091694898
+toNumeric__HomeTeam_Liverpool,-0.01168390243365458
+toNumeric__HomeTeam_Man City,0.09170281920283468
+toNumeric__HomeTeam_Man United,0.030444681839450927
+toNumeric__HomeTeam_Middlesbrough,-0.013828885995163786
+toNumeric__HomeTeam_Newcastle,-0.059329319552539506
+toNumeric__HomeTeam_Norwich,-0.0328667318154916
+toNumeric__HomeTeam_QPR,-0.020103937108871373
+toNumeric__HomeTeam_Reading,0.0084149135372662
+toNumeric__HomeTeam_Southampton,-0.034014477824279576
+toNumeric__HomeTeam_Stoke,-0.005866652694323515
+toNumeric__HomeTeam_Sunderland,-0.01873607631098606
+toNumeric__HomeTeam_Swansea,0.010641331016681299
+toNumeric__HomeTeam_Tottenham,0.03302683045869248
+toNumeric__HomeTeam_Watford,-0.0072245346487704865
+toNumeric__HomeTeam_West Brom,-0.024307170430765357
+toNumeric__HomeTeam_West Ham,0.015696115783310094
+toNumeric__HomeTeam_Wigan,-0.03161475606992292
+toNumeric__AwayTeam_Arsenal,-0.0698098515357316
+toNumeric__AwayTeam_Aston Villa,0.06769559715533446
+toNumeric__AwayTeam_Bournemouth,0.012157336915346373
+toNumeric__AwayTeam_Brighton,0.0
+toNumeric__AwayTeam_Burnley,0.012751060874503173
+toNumeric__AwayTeam_Cardiff,0.053027011118361056
+toNumeric__AwayTeam_Chelsea,-0.059268395382381045
+toNumeric__AwayTeam_Crystal Palace,-0.024089008471483875
+toNumeric__AwayTeam_Everton,-0.02885411861671827
+toNumeric__AwayTeam_Fulham,0.009164540897751872
+toNumeric__AwayTeam_Huddersfield,0.0
+toNumeric__AwayTeam_Hull,0.08212663173700419
+toNumeric__AwayTeam_Leicester,0.006290624428859415
+toNumeric__AwayTeam_Liverpool,-0.06644769648026971
+toNumeric__AwayTeam_Man City,-0.07105178863200823
+toNumeric__AwayTeam_Man United,-0.07867561723229455
+toNumeric__AwayTeam_Middlesbrough,0.022595950129493225
+toNumeric__AwayTeam_Newcastle,0.11035149278532508
+toNumeric__AwayTeam_Norwich,0.0847570135166853
+toNumeric__AwayTeam_QPR,0.00854838312439865
+toNumeric__AwayTeam_Reading,0.020692107165579898
+toNumeric__AwayTeam_Southampton,-0.000935514167828653
+toNumeric__AwayTeam_Stoke,0.026398529769028012
+toNumeric__AwayTeam_Sunderland,0.02966898780647409
+toNumeric__AwayTeam_Swansea,-0.0027103831947953294
+toNumeric__AwayTeam_Tottenham,-0.0595833442501611
+toNumeric__AwayTeam_Watford,0.04323484585798343
+toNumeric__AwayTeam_West Brom,-0.016909592071404078
+toNumeric__AwayTeam_West Ham,-0.009483786341941691
+toNumeric__AwayTeam_Wigan,0.07563471474092642
+toNumeric__HTR_A,0.021069029254704497
+toNumeric__HTR_D,-0.013203246590837603
+toNumeric__HTR_H,-0.005136484903249361
+toNumeric__Referee_A Marriner,-0.019679072925150587
+toNumeric__Referee_A Taylor,0.02486250262080003
+toNumeric__Referee_C Foy,0.0017861303516815141
+toNumeric__Referee_C Kavanagh,-0.010929306056338205
+toNumeric__Referee_C Pawson,0.0019945129308688303
+toNumeric__Referee_D Coote,0.0
+toNumeric__Referee_G Scott,0.05140316508763876
+toNumeric__Referee_H Webb,0.0029307507450191395
+toNumeric__Referee_J Moss,-0.013221106036487962
+toNumeric__Referee_K Friend,-0.0038704161179610383
+toNumeric__Referee_K Stroud,0.04029810958768071
+toNumeric__Referee_L Mason,-0.011988582007888327
+toNumeric__Referee_L Probert,0.0059130464833625496
+toNumeric__Referee_M Atkinson,0.06442689292688075
+toNumeric__Referee_M Clattenburg,0.054282040392488295
+toNumeric__Referee_M Dean,-0.022062456326678248
+toNumeric__Referee_M Halsey,-0.05250019514026505
+toNumeric__Referee_M Jones,-0.03397716106833493
+toNumeric__Referee_M Oliver,0.026089468441750308
+toNumeric__Referee_N Swarbrick,-0.04186404652458375
+toNumeric__Referee_P Dowd,-0.030196880211990296
+toNumeric__Referee_P Tierney,-0.022333500881796642
+toNumeric__Referee_R East,-0.009961123921962134
+toNumeric__Referee_R Madley,-0.013101577797142827
+toNumeric__Referee_S Attwell,0.014116529810918044
+toNumeric__Referee_S Hooper,-0.021419575908728665
+remainder__Date,0.0010681366010166782
+remainder__HTHG,0.6900467956507512
+remainder__HTAG,-0.5648526792972621
+remainder__HS,-0.09844816796873535
+remainder__AS,-0.018690782446078386
+remainder__HST,0.4779656764571173
+remainder__AST,-0.3529669660701006
+remainder__HF,-0.013219234747399444
+remainder__AF,-0.032867886748381425
+remainder__HC,-0.12634854455737674
+remainder__AC,0.12590111685957142
+remainder__HY,-0.012801517046650057
+remainder__AY,0.005350738833158841
+remainder__HR,-0.13091747718337438
+remainder__AR,0.06707166683135657
+remainder__Season,0.018503422073707254
+
+Predictions for season 26
+Mean squared error: 1.275516
+toNumeric__HomeTeam_Arsenal,0.07880916572902663
+toNumeric__HomeTeam_Aston Villa,-0.08870235590861597
+toNumeric__HomeTeam_Bournemouth,-0.023473367751972063
+toNumeric__HomeTeam_Brighton,-0.0025618657847061854
+toNumeric__HomeTeam_Burnley,0.00417470139235121
+toNumeric__HomeTeam_Cardiff,-0.028797847558351464
+toNumeric__HomeTeam_Chelsea,0.026513450505383673
+toNumeric__HomeTeam_Crystal Palace,-0.045720252722126986
+toNumeric__HomeTeam_Everton,0.04103886991323691
+toNumeric__HomeTeam_Fulham,-0.06102455669975626
+toNumeric__HomeTeam_Huddersfield,-0.010622393015282228
+toNumeric__HomeTeam_Hull,-0.037096302657438684
+toNumeric__HomeTeam_Leicester,-0.002055969811625147
+toNumeric__HomeTeam_Liverpool,-0.02357012717085638
+toNumeric__HomeTeam_Man City,0.11920483195279141
+toNumeric__HomeTeam_Man United,0.025187564236496485
+toNumeric__HomeTeam_Middlesbrough,-0.03123481754616364
+toNumeric__HomeTeam_Newcastle,-0.01031847099723393
+toNumeric__HomeTeam_Norwich,-0.028806173855699058
+toNumeric__HomeTeam_QPR,0.006991571926612039
+toNumeric__HomeTeam_Southampton,-0.049174400592519873
+toNumeric__HomeTeam_Stoke,-0.028205191812624264
+toNumeric__HomeTeam_Sunderland,0.02996341518329615
+toNumeric__HomeTeam_Swansea,0.0034682576747862015
+toNumeric__HomeTeam_Tottenham,0.06425188616226762
+toNumeric__HomeTeam_Watford,0.021066920659194466
+toNumeric__HomeTeam_West Brom,-0.061278901277347586
+toNumeric__HomeTeam_West Ham,0.0072109027695930195
+toNumeric__HomeTeam_Wolves,0.0
+toNumeric__AwayTeam_Arsenal,-0.05758152417192086
+toNumeric__AwayTeam_Aston Villa,0.05927480584607281
+toNumeric__AwayTeam_Bournemouth,0.03761028104283071
+toNumeric__AwayTeam_Brighton,0.025181965217370816
+toNumeric__AwayTeam_Burnley,0.035555176689864965
+toNumeric__AwayTeam_Cardiff,0.050718066768936865
+toNumeric__AwayTeam_Chelsea,-0.07560373352158933
+toNumeric__AwayTeam_Crystal Palace,-0.005016538245911306
+toNumeric__AwayTeam_Everton,-0.017469311006102828
+toNumeric__AwayTeam_Fulham,0.07328265747080565
+toNumeric__AwayTeam_Huddersfield,0.07693328571192559
+toNumeric__AwayTeam_Hull,0.06457765725932063
+toNumeric__AwayTeam_Leicester,-0.026139261536357594
+toNumeric__AwayTeam_Liverpool,-0.032909289792286245
+toNumeric__AwayTeam_Man City,-0.11420659514480391
+toNumeric__AwayTeam_Man United,-0.07289321796503856
+toNumeric__AwayTeam_Middlesbrough,0.0
+toNumeric__AwayTeam_Newcastle,0.08913515157664875
+toNumeric__AwayTeam_Norwich,0.10025810856100748
+toNumeric__AwayTeam_QPR,0.03455083656558777
+toNumeric__AwayTeam_Southampton,0.005402878511148401
+toNumeric__AwayTeam_Stoke,0.08757616321398487
+toNumeric__AwayTeam_Sunderland,0.018856093620982506
+toNumeric__AwayTeam_Swansea,-0.006359304889222983
+toNumeric__AwayTeam_Tottenham,-0.08126756084839926
+toNumeric__AwayTeam_Watford,0.031036357368922296
+toNumeric__AwayTeam_West Brom,-0.034214528524611154
+toNumeric__AwayTeam_West Ham,-0.03080634814011063
+toNumeric__AwayTeam_Wolves,0.0
+toNumeric__HTR_A,-0.029826351935710704
+toNumeric__HTR_D,-0.013098201100971707
+toNumeric__HTR_H,0.04025432145826713
+toNumeric__Referee_A Madley,0.0
+toNumeric__Referee_A Marriner,0.004589574240625893
+toNumeric__Referee_A Taylor,-0.052047102915778964
+toNumeric__Referee_C Foy,-0.00982067069638859
+toNumeric__Referee_C Kavanagh,-0.02764978286394637
+toNumeric__Referee_C Pawson,0.0192294012138845
+toNumeric__Referee_D Coote,0.0
+toNumeric__Referee_G Scott,0.05538551246237944
+toNumeric__Referee_H Webb,0.033030595376295935
+toNumeric__Referee_J Moss,-0.0025295239786871093
+toNumeric__Referee_K Friend,-0.010644824916774098
+toNumeric__Referee_K Stroud,0.009300666963580319
+toNumeric__Referee_L Mason,-0.02626121696162187
+toNumeric__Referee_L Probert,-0.0532966668824173
+toNumeric__Referee_M Atkinson,0.013989970175579458
+toNumeric__Referee_M Clattenburg,0.06304580790592951
+toNumeric__Referee_M Dean,0.006785201063582935
+toNumeric__Referee_M Jones,0.0039598254977804
+toNumeric__Referee_M Oliver,0.0375822181909129
+toNumeric__Referee_N Swarbrick,-0.021918242313088143
+toNumeric__Referee_P Dowd,-0.03294721946556223
+toNumeric__Referee_P Tierney,-0.02282331113968894
+toNumeric__Referee_R East,0.008924672868758421
+toNumeric__Referee_R Madley,-0.0038207821849631785
+toNumeric__Referee_S Attwell,-0.011276228264591737
+toNumeric__Referee_S Hooper,0.0
+remainder__Date,0.0700277040759616
+remainder__HTHG,0.5990387414358356
+remainder__HTAG,-0.5193142554284922
+remainder__HS,-0.0868508066038558
+remainder__AS,-0.0161380974134957
+remainder__HST,0.5401506175125146
+remainder__AST,-0.4252001050038423
+remainder__HF,0.0031456382679735384
+remainder__AF,-0.08136672947929213
+remainder__HC,-0.16818381465206755
+remainder__AC,0.10413050085185738
+remainder__HY,-0.00759554836406906
+remainder__AY,0.028595757213726536
+remainder__HR,-0.0845100648544701
+remainder__AR,0.07466194267365722
+remainder__Season,0.032562956799438325
+
+Predictions for season 27
+Mean squared error: 1.346068
+toNumeric__HomeTeam_Arsenal,0.0904890244420658
+toNumeric__HomeTeam_Aston Villa,-0.03263638493622745
+toNumeric__HomeTeam_Bournemouth,-0.02914841154822634
+toNumeric__HomeTeam_Brighton,-0.03874949736434585
+toNumeric__HomeTeam_Burnley,-0.02237308252655723
+toNumeric__HomeTeam_Cardiff,-0.07594034760582957
+toNumeric__HomeTeam_Chelsea,0.008012451143659671
+toNumeric__HomeTeam_Crystal Palace,-0.03135185765481352
+toNumeric__HomeTeam_Everton,0.027658832809635547
+toNumeric__HomeTeam_Fulham,-0.006099298134193631
+toNumeric__HomeTeam_Huddersfield,-0.01536786309378646
+toNumeric__HomeTeam_Hull,-0.01853738485265244
+toNumeric__HomeTeam_Leicester,-0.01075267608678715
+toNumeric__HomeTeam_Liverpool,0.024589322059187013
+toNumeric__HomeTeam_Man City,0.11179606961506489
+toNumeric__HomeTeam_Man United,0.022426912637506013
+toNumeric__HomeTeam_Middlesbrough,-0.04016126642845652
+toNumeric__HomeTeam_Newcastle,0.03623805776667759
+toNumeric__HomeTeam_Norwich,-0.03392918365548858
+toNumeric__HomeTeam_QPR,-0.0011964303112850239
+toNumeric__HomeTeam_Sheffield United,0.0
+toNumeric__HomeTeam_Southampton,-0.06293334061033895
+toNumeric__HomeTeam_Stoke,-0.052898935788758594
+toNumeric__HomeTeam_Sunderland,0.01488290587885166
+toNumeric__HomeTeam_Swansea,-0.009722036797079059
+toNumeric__HomeTeam_Tottenham,0.055055387183085225
+toNumeric__HomeTeam_Watford,0.005791688074103352
+toNumeric__HomeTeam_West Brom,-0.05499354218884134
+toNumeric__HomeTeam_West Ham,0.00780484318363156
+toNumeric__HomeTeam_Wolves,-0.001804856874120686
+toNumeric__AwayTeam_Arsenal,-0.034068096971355266
+toNumeric__AwayTeam_Aston Villa,0.058694587205909476
+toNumeric__AwayTeam_Bournemouth,0.061588448161993714
+toNumeric__AwayTeam_Brighton,0.03684504157892188
+toNumeric__AwayTeam_Burnley,0.04016555260569249
+toNumeric__AwayTeam_Cardiff,-0.016616754987282434
+toNumeric__AwayTeam_Chelsea,-0.05645741950162053
+toNumeric__AwayTeam_Crystal Palace,-0.03879267151726706
+toNumeric__AwayTeam_Everton,0.0568450117148549
+toNumeric__AwayTeam_Fulham,0.07065092101715442
+toNumeric__AwayTeam_Huddersfield,0.07957748916698737
+toNumeric__AwayTeam_Hull,0.05065059233495961
+toNumeric__AwayTeam_Leicester,-0.022839631675270422
+toNumeric__AwayTeam_Liverpool,-0.05258678620254165
+toNumeric__AwayTeam_Man City,-0.12869924795406357
+toNumeric__AwayTeam_Man United,-0.03473264939668719
+toNumeric__AwayTeam_Middlesbrough,0.011143811458888653
+toNumeric__AwayTeam_Newcastle,0.08716233270326323
+toNumeric__AwayTeam_Norwich,0.062268375473513604
+toNumeric__AwayTeam_QPR,0.04249747181724983
+toNumeric__AwayTeam_Sheffield United,0.0
+toNumeric__AwayTeam_Southampton,-0.006853252406591348
+toNumeric__AwayTeam_Stoke,0.06265722698369858
+toNumeric__AwayTeam_Sunderland,0.0059818721010205245
+toNumeric__AwayTeam_Swansea,0.0
+toNumeric__AwayTeam_Tottenham,-0.10417963909518818
+toNumeric__AwayTeam_Watford,0.028479595558358328
+toNumeric__AwayTeam_West Brom,-0.029406446586340174
+toNumeric__AwayTeam_West Ham,-0.031017487380871622
+toNumeric__AwayTeam_Wolves,0.0
+toNumeric__HTR_A,-0.06256581282702928
+toNumeric__HTR_D,0.015770857991407483
+toNumeric__HTR_H,0.039890977889717794
+toNumeric__Referee_A Madley,0.0
+toNumeric__Referee_A Marriner,-0.02102295921446702
+toNumeric__Referee_A Taylor,-0.020837625487307887
+toNumeric__Referee_C Foy,0.023185898664805693
+toNumeric__Referee_C Kavanagh,-0.023593372182354022
+toNumeric__Referee_C Pawson,-0.022365224574543485
+toNumeric__Referee_D Coote,-0.007660548566410519
+toNumeric__Referee_D England,0.0
+toNumeric__Referee_G Scott,0.08428161695031655
+toNumeric__Referee_J Moss,0.012389190357313784
+toNumeric__Referee_K Friend,-0.0395013037099301
+toNumeric__Referee_K Stroud,0.004270477415103813
+toNumeric__Referee_L Mason,-0.0024085927851700273
+toNumeric__Referee_L Probert,-0.04391339120730753
+toNumeric__Referee_M Atkinson,0.0022626830107111973
+toNumeric__Referee_M Clattenburg,0.05558933448654657
+toNumeric__Referee_M Dean,0.04712135172769599
+toNumeric__Referee_M Jones,-0.00440519711845222
+toNumeric__Referee_M Oliver,0.05108246238805092
+toNumeric__Referee_N Swarbrick,-0.03032256777807507
+toNumeric__Referee_O Langford,0.0
+toNumeric__Referee_P Bankes,0.0
+toNumeric__Referee_P Dowd,-0.01013300103812731
+toNumeric__Referee_P Tierney,-0.060294744589114435
+toNumeric__Referee_R East,0.02448531969517065
+toNumeric__Referee_R Jones,0.0
+toNumeric__Referee_R Madley,-0.015063765974388188
+toNumeric__Referee_S Attwell,-0.010966301589108607
+toNumeric__Referee_S Hooper,-0.028915709900304565
+toNumeric__Referee_S Scott,0.0
+toNumeric__Referee_T Robinson,0.0
+remainder__Date,0.025290794151678758
+remainder__HTHG,0.5908888000462158
+remainder__HTAG,-0.5121431439755542
+remainder__HS,-0.07811977530934078
+remainder__AS,-0.04539767682200424
+remainder__HST,0.49008703716851587
+remainder__AST,-0.4053236897127791
+remainder__HF,0.028694944431725294
+remainder__AF,-0.07321000179715662
+remainder__HC,-0.16858539343480772
+remainder__AC,0.13756745934639975
+remainder__HY,-0.03876832624368157
+remainder__AY,-0.005984372505140792
+remainder__HR,-0.1021306306107923
+remainder__AR,0.07392015916475558
+remainder__Season,0.05215367897562473
+
+Predictions for season 28
+Mean squared error: 1.453048
+toNumeric__HomeTeam_Arsenal,0.12343411632224388
+toNumeric__HomeTeam_Aston Villa,-0.042838727852398506
+toNumeric__HomeTeam_Bournemouth,-0.028515232723847816
+toNumeric__HomeTeam_Brighton,-0.05347137264692492
+toNumeric__HomeTeam_Burnley,-0.015186849495492538
+toNumeric__HomeTeam_Cardiff,-0.05536597376345753
+toNumeric__HomeTeam_Chelsea,-0.013463922855081023
+toNumeric__HomeTeam_Crystal Palace,-0.028123512796746297
+toNumeric__HomeTeam_Everton,0.032941537299322476
+toNumeric__HomeTeam_Fulham,-0.009327062481474968
+toNumeric__HomeTeam_Huddersfield,-0.014979547286088746
+toNumeric__HomeTeam_Hull,0.0044505849618587945
+toNumeric__HomeTeam_Leeds,0.0
+toNumeric__HomeTeam_Leicester,0.02036231689004353
+toNumeric__HomeTeam_Liverpool,0.017582090900837954
+toNumeric__HomeTeam_Man City,0.1191608719582149
+toNumeric__HomeTeam_Man United,0.02471263360830278
+toNumeric__HomeTeam_Middlesbrough,-0.026529025088024127
+toNumeric__HomeTeam_Newcastle,0.007047945913484455
+toNumeric__HomeTeam_Norwich,-0.053045378173266045
+toNumeric__HomeTeam_Sheffield United,0.01584600581819018
+toNumeric__HomeTeam_Southampton,-0.08159096873631455
+toNumeric__HomeTeam_Stoke,-0.04592137016528852
+toNumeric__HomeTeam_Sunderland,0.016944068581032923
+toNumeric__HomeTeam_Swansea,-0.04177545837153218
+toNumeric__HomeTeam_Tottenham,0.04849460651318793
+toNumeric__HomeTeam_Watford,0.02718123400647343
+toNumeric__HomeTeam_West Brom,-0.07109153920663402
+toNumeric__HomeTeam_West Ham,-0.02630226367460864
+toNumeric__HomeTeam_Wolves,0.04732500133448525
+toNumeric__AwayTeam_Arsenal,-0.055644027782236094
+toNumeric__AwayTeam_Aston Villa,0.07680657590174178
+toNumeric__AwayTeam_Bournemouth,0.04735325944537294
+toNumeric__AwayTeam_Brighton,0.029115275111884387
+toNumeric__AwayTeam_Burnley,-0.00587978717898352
+toNumeric__AwayTeam_Cardiff,-0.012713471780415375
+toNumeric__AwayTeam_Chelsea,-0.02293217915536161
+toNumeric__AwayTeam_Crystal Palace,-0.01569711194254353
+toNumeric__AwayTeam_Everton,0.0386826394295241
+toNumeric__AwayTeam_Fulham,0.0618396381023274
+toNumeric__AwayTeam_Huddersfield,0.08626371976003888
+toNumeric__AwayTeam_Hull,0.07104766640153583
+toNumeric__AwayTeam_Leeds,0.0
+toNumeric__AwayTeam_Leicester,-0.030906587636138738
+toNumeric__AwayTeam_Liverpool,-0.07020270620611768
+toNumeric__AwayTeam_Man City,-0.09680473066231166
+toNumeric__AwayTeam_Man United,-0.012484237157892153
+toNumeric__AwayTeam_Middlesbrough,0.0059435640593016046
+toNumeric__AwayTeam_Newcastle,0.08785735592873323
+toNumeric__AwayTeam_Norwich,0.07521158547396567
+toNumeric__AwayTeam_Sheffield United,-0.021077775990903547
+toNumeric__AwayTeam_Southampton,-0.00230034174232685
+toNumeric__AwayTeam_Stoke,0.058703653450812965
+toNumeric__AwayTeam_Sunderland,0.025553366743395145
+toNumeric__AwayTeam_Swansea,0.0029186476451741328
+toNumeric__AwayTeam_Tottenham,-0.07861306059270845
+toNumeric__AwayTeam_Watford,0.02337993868807331
+toNumeric__AwayTeam_West Brom,-0.020287415479806725
+toNumeric__AwayTeam_West Ham,-0.028177810895407163
+toNumeric__AwayTeam_Wolves,-0.0648483188444402
+toNumeric__HTR_A,-0.0019356444480180812
+toNumeric__HTR_D,0.030485892630977673
+toNumeric__HTR_H,-0.029802735356938115
+toNumeric__Referee_A Madley,0.0
+toNumeric__Referee_A Marriner,-0.039465420173726784
+toNumeric__Referee_A Moss,0.0
+toNumeric__Referee_A Taylor,0.01714435085564503
+toNumeric__Referee_C Kavanagh,-0.023103144433463285
+toNumeric__Referee_C Pawson,-0.03176888079192963
+toNumeric__Referee_D Coote,-0.0001667643605998137
+toNumeric__Referee_D England,-0.028163760066248683
+toNumeric__Referee_G Scott,0.07033575700231154
+toNumeric__Referee_J Moss,-0.006736730239708777
+toNumeric__Referee_K Friend,-0.04174274828781677
+toNumeric__Referee_K Stroud,0.0
+toNumeric__Referee_L Mason,0.014443443374986487
+toNumeric__Referee_L Probert,-0.03711152368844317
+toNumeric__Referee_M Atkinson,0.00485193946877871
+toNumeric__Referee_M Clattenburg,0.030337086166554172
+toNumeric__Referee_M Dean,0.03210452032158173
+toNumeric__Referee_M Jones,0.031170472479928435
+toNumeric__Referee_M Oliver,0.04381050624499139
+toNumeric__Referee_N Swarbrick,-0.014645344743144051
+toNumeric__Referee_O Langford,-0.0039320176962094
+toNumeric__Referee_P Bankes,-0.044865042284016
+toNumeric__Referee_P Tierney,-0.043181133173455066
+toNumeric__Referee_R East,0.022032389594158985
+toNumeric__Referee_R Jones,0.0
+toNumeric__Referee_R Madley,-0.005373306022462998
+toNumeric__Referee_S Attwell,0.0019126158915128144
+toNumeric__Referee_S Hooper,-0.017475970300367294
+toNumeric__Referee_S Scott,0.0
+toNumeric__Referee_T Robinson,0.0
+remainder__Date,0.0022870001665964423
+remainder__HTHG,0.6784792797888528
+remainder__HTAG,-0.5988408872986355
+remainder__HS,-0.06584617155083627
+remainder__AS,-0.0256532519428454
+remainder__HST,0.4937623607058299
+remainder__AST,-0.44736409817241807
+remainder__HF,0.023006291511279642
+remainder__AF,-0.04245160002912485
+remainder__HC,-0.13357381817861214
+remainder__AC,0.11105959048833114
+remainder__HY,-0.04378143900071052
+remainder__AY,-0.04431830892392696
+remainder__HR,-0.06560187637015247
+remainder__AR,0.07402392896925392
+remainder__Season,0.052578036771137704
+
